@@ -44,6 +44,8 @@ with os.scandir(read_path) as entries:
             i.parent = ''
             i.id = data_begin_id + len(data)
 
+            baseUrl = '/static/' + str(i.id) + '/'
+
             if h1: i.title = h1.getText()
 
             description = soup.find('div', class_='series_description')
@@ -52,7 +54,9 @@ with os.scandir(read_path) as entries:
                 i.caption = 'Equal'
             # i.caption = i.desc = soup.find('div', class_='series_description').getText()
             for a in soup.find_all('div', class_='page_cover_image'):
-                i.imgSrc = a.img['src']
+                src = a.img['src']
+                file = os.path.basename(src)
+                i.imgSrc = baseUrl + file
                 break
 
             date = soup.find('div', class_='publish_date')
@@ -81,7 +85,7 @@ with os.scandir(read_path) as entries:
             for e in episode_list:
                 # print(e.img['src'])
                 # print(e.p.getText())
-                d = {'name': e.p.getText(), 'src': e.img['src'], 'url': 'javascript:void(0)',
+                d = {'name': e.p.getText(), 'src': baseUrl+os.path.basename(e.img['src']), 'url': 'javascript:void(0)',
                      'id': 'ep' + str(len(episode_list) - len(i.item))}
                 i.item.append(d)
 

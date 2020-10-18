@@ -5,7 +5,7 @@
         "title": "36題愛上你",
         "desc": "【每周一~三 晚間21:00上架】在這個相互攻訐、彼此撕裂的年代，我們嘗試以促進瞭解的方式，讓我們坦承分享，希望在互相理解之後，一起找回愛的力量。這是一檔實境談話節目，主持人化身出題者，量身打造出36道問題，在一個小時的時間內，受訪者要接受這36道題的提問，是坦誠？或是閃避？是掏心？或是抗拒？決定了受訪者，是否能被瞭解、被體諒、被愛上⋯⋯。根據心理學家阿瑟·亞倫(Arthur Aron)的研究，兩個陌生人，以特別設計的36個問題互相詢問，可以讓親密關係昇溫，甚至可能愛上彼此。同樣的原理、不同的邏輯，討厭的人，你會愛上他；喜歡的人，你會更瞭解他。現在，我們即將問出36道問題，之後～討厭的人，你會愛上他；喜歡的人，你會更瞭解他。【本節目由於版權限制，設有觀看期限，敬請把握觀看時間】",
         "caption": "Equal",
-        "imgSrc": "./s_36題愛上你_files/WebItemPage_36題愛上你banner_clean_1920.png",
+        "imgSrc": "/static/5000/WebItemPage_36題愛上你banner_clean_1920.png",
         "date": "2020-6",
         "epNum": "更新至第 60 集",
         "category": [
@@ -20,19 +20,19 @@
         "item": [
             {
                 "name": "因為我喜歡你-郭雪芙 張本渝 ep60",
-                "src": "./s_36題愛上你_files/WebListPage_0.jpg",
+                "src": "/static/5000/WebListPage_0.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "首張EP「共同記憶體」這群人 ep59",
-                "src": "./s_36題愛上你_files/WebListPage_9.jpg",
+                "src": "/static/5000/WebListPage_9.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "國標舞女神-小嫻 ep58",
-                "src": "./s_36題愛上你_files/WebListPage_8.jpg",
+                "src": "/static/5000/WebListPage_8.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -44,7 +44,7 @@
         "title": "不公平的遊戲：川普是如何贏的 Unfair Game: How Trump Won",
         "desc": "【觀看期限至10/22】他，在普選中落後對手300萬票。他，在整個競選過程中對媒體和民眾說謊，帶領他的國家進入一個後真相時代。美國總統的背後隱藏著一位神秘人物，過去十年來為了實現他的保守派政治理念，投注了數百萬美元。他，掌控川普競選陣營。他，主導布萊巴特新聞網，一個宣揚另類右派政治思想的新聞網站，由主張白人民族主義的前川普首席策士史蒂芬·巴農掌舵。他，資助劍橋分析，一家利用大數據來了解我們所有的人，目的是要鎖定目標選民來影響民主選舉的心理測量公司。川普的總統選舉宣告了這個新的數據民主時代的到來嗎？",
         "caption": "Equal",
-        "imgSrc": "./s_不公平的遊戲：川普是如何贏的_files/WebItemPage_a2.png",
+        "imgSrc": "/static/5001/WebItemPage_a2.png",
         "date": "2019-11",
         "epNum": "全 1 集",
         "direct": "Thomas Huchon",
@@ -69,7 +69,7 @@
         "item": [
             {
                 "name": "不公平的遊戲：川普是如何贏的 Unfair Game: How Trump Won",
-                "src": "./s_不公平的遊戲：川普是如何贏的_files/WebListPage_a4.jpg",
+                "src": "/static/5001/WebListPage_a4.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -81,7 +81,7 @@
         "title": "住左邊住右邊",
         "desc": "幸福社區管理委員會主任委員「小郭」郭富乾(郭子乾飾)下了班，除了要面對老婆秀秀(琇琴飾)對他「辦事」不力的抱怨，忙著澄清離婚的緋聞、防針孔偷拍，每天還要處理住戶們千奇百怪的問題，像：花爺爺(九孔飾)為愛慕的阿嬤(林美秀飾)爭風吃醋，要和Johnny(澎恰恰飾)比誰「有凍頭」；樓上的花家夫妻花一航(賀一航飾)、曼寧(顏嘉樂飾)搶錢一流，患不孕症，熱心的鄰居來幫他們「做人」；菲傭馬尼拉(阿爆飾)思鄉情切；單親媽媽、性感熟女戈韋如(戈偉如飾)受不了隔壁鄰居的叫床聲，要小郭把隔壁的「發情母貓」給搞定，但其實她才是最A的0204女郎；還有女人最貼心的姊妹賽門(許傑輝飾)、愛戀戈韋如的張喬治(張兆志飾)、找不到好男人的韓國美女李喜真，及四處兼差賺錢的警衛兼壽司吧服務生阿Ken等人……。",
         "caption": "Equal",
-        "imgSrc": "./s_住左邊住右邊_files/WebItemPage_11.jpg",
+        "imgSrc": "/static/5002/WebItemPage_11.jpg",
         "date": "2020-8",
         "epNum": "全 36 集",
         "actor": "郭子乾,于子育,林美秀,黃安琪,賀一航,顏嘉樂,九孔,阿爆,戈偉如,許傑輝,陳奕,張兆志,林暐恆",
@@ -105,61 +105,61 @@
         "item": [
             {
                 "name": "幸福隨堂測驗,我倆有明天 ep10",
-                "src": "./s_住左邊住右邊_files/WebListPage_10.jpg",
+                "src": "/static/5002/WebListPage_10.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep10"
             },
             {
                 "name": "消除油脂一身輕,新岳父大人 ep9",
-                "src": "./s_住左邊住右邊_files/WebListPage_9.jpg",
+                "src": "/static/5002/WebListPage_9.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep9"
             },
             {
                 "name": "哼！我是男子漢,全民樂透透 ep8",
-                "src": "./s_住左邊住右邊_files/WebListPage_8.jpg",
+                "src": "/static/5002/WebListPage_8.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep8"
             },
             {
                 "name": "我的藍色小丸子,糊塗鄰居妙菲傭,糊塗鄰居妙菲傭 ep7",
-                "src": "./s_住左邊住右邊_files/WebListPage_7.jpg",
+                "src": "/static/5002/WebListPage_7.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep7"
             },
             {
                 "name": "我不是教你詐,韋如的Mr.Perfect ep6",
-                "src": "./s_住左邊住右邊_files/WebListPage_6.jpg",
+                "src": "/static/5002/WebListPage_6.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep6"
             },
             {
                 "name": "霹哩趴啦開轟趴,男人四十 ep5",
-                "src": "./s_住左邊住右邊_files/WebListPage_5.jpg",
+                "src": "/static/5002/WebListPage_5.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep5"
             },
             {
                 "name": "0204電話女郎風波,家有一老如有一寶 ep4",
-                "src": "./s_住左邊住右邊_files/WebListPage_4.jpg",
+                "src": "/static/5002/WebListPage_4.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep4"
             },
             {
                 "name": "搶救風水大作戰,科技來自於沒有人性 ep3",
-                "src": "./s_住左邊住右邊_files/WebListPage_3.jpg",
+                "src": "/static/5002/WebListPage_3.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "小夫妻大戰爭,阿嬤的春天來了 ep2",
-                "src": "./s_住左邊住右邊_files/WebListPage_2.jpg",
+                "src": "/static/5002/WebListPage_2.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "郭富乾的前女友來了,幸福社區中韓大戰 ep1",
-                "src": "./s_住左邊住右邊_files/WebListPage_1.jpg",
+                "src": "/static/5002/WebListPage_1.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -171,7 +171,7 @@
         "title": "你的孩子不是你的孩子",
         "desc": "《你的孩子不是你的孩子》改編自作家吳曉樂的同名小說。書中深刻描述了家庭中，因追逐分數的考試制度而扭曲的親子關係，以及單一的成功價值觀忽略了個體差異性的高壓社會。本劇由六位編劇將書中的九個故事改編成五個單元：《媽媽的遙控器》（編劇/蔣友竹）、《貓的孩子》（編劇/簡士耕）、《茉莉的最後一天》（編劇/洪茲盈）、《孔雀》和《必須過動》（編劇/夏康真、費工怡、馬千代）。跳脫一般親子關係和教育題材常用的溫情喊話窠臼，改編後的故事加入微科幻元素，讓寫實的生活日常，成了含有警世智慧的寓言。入圍▲第54屆電視金鐘獎迷你劇集（電視電影）女主角獎-茉莉的最後一天-尹馨迷你劇集（電視電影）女配角獎-茉莉的最後一天-王淨迷你劇集（電視電影）新進演員獎-貓的孩子-王渝屏迷你劇集（電視電影）新進演員獎-孔雀-王渝萱迷你劇集（電視電影）新進演員獎-貓的孩子-劉修甫迷你劇集（電視電影）編劇獎-貓的孩子-簡士耕戲劇類節目攝影獎-貓的孩子-簡正傳、簡新祐音效獎-媽媽的遙控器-魏如萱、史旻玠、鄭元凱燈光獎-貓的孩子-李奇祥得獎▲第54屆電視金鐘獎電視電影獎-貓的孩子迷你劇集（電視電影）女主角獎-貓的孩子-鍾欣凌迷你劇集（電視電影）導演獎-貓的孩子-陳慧翎、余慧君戲劇類節目剪輯獎-貓的孩子-吳姿瑩美術設計獎-貓的孩子-吳若昀、黃明仁、賴琬婷、王重治、姚良奇、林佳齡",
         "caption": "Equal",
-        "imgSrc": "./s_你的孩子不是你的孩子_files/WebItemPage_child_1920_new.jpg",
+        "imgSrc": "/static/5003/WebItemPage_child_1920_new.jpg",
         "date": "2019-1",
         "epNum": "全 5 集",
         "direct": "陳慧翎",
@@ -202,31 +202,31 @@
         "item": [
             {
                 "name": "必須過動 ep5",
-                "src": "./s_你的孩子不是你的孩子_files/WebListPage_5.jpg",
+                "src": "/static/5003/WebListPage_5.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep5"
             },
             {
                 "name": "孔雀 ep4",
-                "src": "./s_你的孩子不是你的孩子_files/WebListPage_孔雀_300.jpg",
+                "src": "/static/5003/WebListPage_孔雀_300.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep4"
             },
             {
                 "name": "茉莉的最後一天 ep3",
-                "src": "./s_你的孩子不是你的孩子_files/WebListPage_3.jpg",
+                "src": "/static/5003/WebListPage_3.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "貓的孩子 ep2",
-                "src": "./s_你的孩子不是你的孩子_files/WebListPage_2.jpg",
+                "src": "/static/5003/WebListPage_2.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "媽媽的遙控器 ep1",
-                "src": "./s_你的孩子不是你的孩子_files/WebListPage_1.jpg",
+                "src": "/static/5003/WebListPage_1.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -238,7 +238,7 @@
         "title": "來自故鄉的思念—蕭泰然逝世五周年紀念系列",
         "desc": "109年2月24日適逢臺灣作曲家蕭泰然（1938-2015）逝世五周年，蕭泰然為國家文藝獎、金曲獎、吳三連文藝獎及行政院文化獎得主，其作品充滿臺灣風情、深具人文精神，受到海內外聽眾的極大肯定。為紀念此位重要音樂家，由國立傳統藝術中心臺灣音樂館策辦系列活動，再現其音樂風華。此場音樂會特邀蕭泰然長期合作之著名鋼琴家葉綠娜策劃及演出，曲目編制含括蕭泰然鋼琴及室內樂作品，如世界首演「兒童鋼琴小品」十一首、《主題與變奏》與《今晚星光月亮多美麗變奏曲》等。本場次除了演出蕭泰然經典的樂曲外，亦臺灣首演蕭老師的好友莊傳賢先生所創作之《飛翔》，並結合多媒體呈現其重要時刻所留下之經典畫面，在音樂會演出音樂作品中聽到與看到蕭泰然一生與臺灣土地最深的情懷。主辦單位：國立傳統藝術中心臺灣音樂館感謝 「Tyzen Hsiao Foundation 蕭泰然基金會」授權",
         "caption": "Equal",
-        "imgSrc": "./s_來自故鄉的思念—蕭泰然逝世五周年紀念系列_files/WebItemPage_1.jpg",
+        "imgSrc": "/static/5004/WebItemPage_1.jpg",
         "date": "2020-9",
         "epNum": "全 1 集",
         "category": [
@@ -252,7 +252,7 @@
         "item": [
             {
                 "name": "來自故鄉的思念—蕭泰然逝世五周年紀念系列",
-                "src": "./s_來自故鄉的思念—蕭泰然逝世五周年紀念系列_files/WebListPage_3.jpg",
+                "src": "/static/5004/WebListPage_3.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -264,7 +264,7 @@
         "title": "來自街頭 凱斯哈林",
         "desc": "【觀看期限至10/21】凱斯哈林（Keith Haring）的爬行的嬰兒、狗、飛行的金字塔、跳舞的人已經是流行文化裡最廣為人知的經典圖案。 他不到25歲就已經風靡紐約，登上了全世界的雜誌。凱斯哈林的哲學是藝術要能與更多人溝通，不是只服務負擔得起的有錢人。簡單的線條、活潑亮麗的色彩都變成通勤的紐約市民日常生活的一部份，這些不僅是塗鴉，也是藝術，更是凱斯哈林透過符號與圖騰對當時社會議題的表態與反思。從小就愛畫畫也個性叛逆的他，不願照著父母的期待發展，一個人跑到了紐約創作，他把紐約上城區的塗鴉、饒舌 文化與龐克新浪潮美學碰撞出驚人的火花。節目透過大量凱斯哈林的珍貴畫面，記錄了他如流星般 璀璨短暫的一生，他的童年、創作、毒癮，以及最後與愛滋病搏鬥的過程。",
         "caption": "Equal",
-        "imgSrc": "./s_來自街頭 凱斯哈林_files/WebItemPage_30.jpg",
+        "imgSrc": "/static/5005/WebItemPage_30.jpg",
         "date": "2020-10",
         "epNum": "更新至第 1 集",
         "category": [
@@ -288,7 +288,7 @@
         "item": [
             {
                 "name": "來自街頭 凱斯哈林",
-                "src": "./s_來自街頭 凱斯哈林_files/WebListPage_32.jpg",
+                "src": "/static/5005/WebListPage_32.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -300,7 +300,7 @@
         "title": "全家有智慧3",
         "desc": "《全家有智慧》第三季延續之前的益智答題並加入APP遊戲，邀請觀眾一起參與猜題。主持人美秀與阿松新一季服裝為科技學院風，帶領觀眾進入「趣味學台語」的益智競賽，藉由搶答的緊張刺激，進而讓台語在遊戲的對抗中，衍生出各種趣味，將台語知識用娛樂方式傳遞給觀眾。這一季新增許多有趣的遊戲單元，囊括「聽、說、讀、寫」，寓教於樂，如：老師出題，請來賓寫出台文字，華語成語轉換台語俗諺、外國人外景VCR出題；然後，獎金挑戰賽「阮兜上(敖力)臆」的單元，派一人說題目，剩下成員猜題目講出正確台語。另外，每一集主持人的服裝飾品，也都會使用不同的台語文字做裝飾，讓大家能夠正視台語文字。讓每一個年齡層的觀眾，加入節目參與互動，重新找回台灣人對台語的興趣，感受台語的博大精深。入圍▲第55屆電視金鐘獎益智及實境節目獎節目創新獎",
         "caption": "Equal",
-        "imgSrc": "./s_全家有智慧3_files/WebItemPage_12.jpg",
+        "imgSrc": "/static/5006/WebItemPage_12.jpg",
         "date": "2020-8",
         "epNum": "更新至第 122 集",
         "category": [
@@ -327,61 +327,61 @@
         "item": [
             {
                 "name": "主播講台語 VS 台視台語新聞台 ep99",
-                "src": "./s_全家有智慧3_files/WebListPage_99.png",
+                "src": "/static/5006/WebListPage_99.png",
                 "url": "javascript:void(0)",
                 "id": "ep10"
             },
             {
                 "name": "拍破台語顛倒勇vs.學台語愛趁燒 ep98",
-                "src": "./s_全家有智慧3_files/WebListPage_2.png",
+                "src": "/static/5006/WebListPage_2.png",
                 "url": "javascript:void(0)",
                 "id": "ep9"
             },
             {
                 "name": "救救歡喜鴛鴦樓 VS 何日君再來 ep97",
-                "src": "./s_全家有智慧3_files/WebListPage_97.jpg",
+                "src": "/static/5006/WebListPage_97.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep8"
             },
             {
                 "name": "秀玲媠噹噹 VS 鳳書好人緣 ep96",
-                "src": "./s_全家有智慧3_files/WebListPage_96.jpg",
+                "src": "/static/5006/WebListPage_96.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep7"
             },
             {
                 "name": "鬥陣來辶日迌 VS 歡喜進香團 ep95",
-                "src": "./s_全家有智慧3_files/WebListPage_95.png",
+                "src": "/static/5006/WebListPage_95.png",
                 "url": "javascript:void(0)",
                 "id": "ep6"
             },
             {
                 "name": "阿洪毛學生vs.再見歌廳秀 ep94",
-                "src": "./s_全家有智慧3_files/WebListPage_1.png",
+                "src": "/static/5006/WebListPage_1.png",
                 "url": "javascript:void(0)",
                 "id": "ep5"
             },
             {
                 "name": "少年出頭天 VS 阿西老先覺 ep93",
-                "src": "./s_全家有智慧3_files/WebListPage_93.jpg",
+                "src": "/static/5006/WebListPage_93.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep4"
             },
             {
                 "name": "金馬台灣味 VS 3Q講台語 ep92",
-                "src": "./s_全家有智慧3_files/WebListPage_092.png",
+                "src": "/static/5006/WebListPage_092.png",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "漢典一粒一 VS 郭哥博士博 ep91",
-                "src": "./s_全家有智慧3_files/WebListPage_91.png",
+                "src": "/static/5006/WebListPage_91.png",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "我的大家足古錐 VS 老姑婆的菜單 ep90",
-                "src": "./s_全家有智慧3_files/WebListPage_90.png",
+                "src": "/static/5006/WebListPage_90.png",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -393,7 +393,7 @@
         "title": "出發騎幻島",
         "desc": "一個九歲孩子的願望、一個父親對孩子的愛，開啟了【出發騎幻島】的旅程。有小百科之稱的「紀昀希」，今年九歲，最想做的事就是跟爸爸一起騎車環島。全台最紅的「OS桑阿松」，為了孩子的願望，毅然決然的踏上單車環島的路程。環島從台灣最北端的富貴角出發，第一段的旅程加入對天文非常著迷的「舒尉司」母子檔；用一個揹包走遍全世界的「劉書維」母女檔。三對親子在旅程中，一起騎單車上山，看到全台最美麗的嵩山梯田；在新埔看到超級壯觀、季節限定的曬柿子美景，還為阿嬤拍攝柿子推廣影片；昀希、書維、阿司第一次挑戰自己上菜市場買菜，過程中為預算傷透腦筋，三個人還差點吵架了！【出發騎幻島】1200公里的奇幻旅程，將徹底顛覆你對環島及親子之旅的想像！入圍▲第55屆電視金鐘獎兒童少年節目獎兒童少年節目主持人獎-阿松【紀竣崴】、紀昀希得獎▲第55屆電視金鐘獎兒童少年節目獎",
         "caption": "Equal",
-        "imgSrc": "./s_出發騎幻島_files/WebItemPage_2.jpg",
+        "imgSrc": "/static/5007/WebItemPage_2.jpg",
         "date": "2019-7",
         "epNum": "全 13 集",
         "category": [
@@ -419,61 +419,61 @@
         "item": [
             {
                 "name": "花東飛一夏 ep10",
-                "src": "./s_出發騎幻島_files/WebListPage_10.jpg",
+                "src": "/static/5007/WebListPage_10.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep10"
             },
             {
                 "name": "台東大不同 ep9",
-                "src": "./s_出發騎幻島_files/WebListPage_9.jpg",
+                "src": "/static/5007/WebListPage_9.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep9"
             },
             {
                 "name": "來去部落住一晚 ep8",
-                "src": "./s_出發騎幻島_files/WebListPage_騎幻8.jpg",
+                "src": "/static/5007/WebListPage_騎幻8.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep8"
             },
             {
                 "name": "爸媽失蹤了 ep7",
-                "src": "./s_出發騎幻島_files/WebListPage_騎幻7.jpg",
+                "src": "/static/5007/WebListPage_騎幻7.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep7"
             },
             {
                 "name": "高屏噗噗跳 ep6",
-                "src": "./s_出發騎幻島_files/WebListPage_騎幻6.jpg",
+                "src": "/static/5007/WebListPage_騎幻6.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep6"
             },
             {
                 "name": "在地新朋友帶路 ep5",
-                "src": "./s_出發騎幻島_files/WebListPage_5.jpg",
+                "src": "/static/5007/WebListPage_5.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep5"
             },
             {
                 "name": "最揪心的離別 ep4",
-                "src": "./s_出發騎幻島_files/WebListPage_4.jpg",
+                "src": "/static/5007/WebListPage_4.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep4"
             },
             {
                 "name": "我們一起摘星去 ep3",
-                "src": "./s_出發騎幻島_files/WebListPage_0.jpg",
+                "src": "/static/5007/WebListPage_0.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "遇見超級阿嬤 ep2",
-                "src": "./s_出發騎幻島_files/WebListPage_2.jpg",
+                "src": "/static/5007/WebListPage_2.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "我們的旅行酷的不一樣 ep1",
-                "src": "./s_出發騎幻島_files/WebListPage_1.jpg",
+                "src": "/static/5007/WebListPage_1.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -485,7 +485,7 @@
         "title": "前世情人的情人",
         "desc": "曾捍衛自由戀愛的兒子文德，現在成了父親。擋不住三姑六婆的糾纏，他被逼得上門關心女兒的情事，卻意外遇上同婚專法通過的日子。家中女兒和女友正為求婚成功而慶祝，文德該如何面對新世代愛情觀的挑戰？入圍▲第55屆電視金鐘獎戲劇類節目剪輯獎-張雅婷燈光獎-魏琥弦美術設計獎-劉蕙屏、林芷妤節目創新獎",
         "caption": "Equal",
-        "imgSrc": "./s_前世情人的情人_files/WebItemPage_前世情人的情人_Banner_1920.png",
+        "imgSrc": "/static/5008/WebItemPage_前世情人的情人_Banner_1920.png",
         "date": "2020-9",
         "epNum": "全 1 集",
         "direct": "梁秀紅",
@@ -516,7 +516,7 @@
         "item": [
             {
                 "name": "前世情人的情人",
-                "src": "./s_前世情人的情人_files/WebListPage_3.jpg",
+                "src": "/static/5008/WebListPage_3.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -528,7 +528,7 @@
         "title": "動物大明星",
         "desc": "以淺顯易懂的方式介紹動物知識，紀錄各種動物生態，具知識與教育性。【本節目由於版權限制，設有觀看期限，敬請把握觀看時間】",
         "caption": "Equal",
-        "imgSrc": "./s_動物大明星_files/WebItemPage_2.jpg",
+        "imgSrc": "/static/5009/WebItemPage_2.jpg",
         "date": "2020-1",
         "epNum": "更新至第 26 集",
         "category": [
@@ -549,19 +549,19 @@
         "item": [
             {
                 "name": "蜜袋鼯 ep16",
-                "src": "./s_動物大明星_files/WebListPage_G201978700160001.mxf_20200418_121553.258.jpg",
+                "src": "/static/5009/WebListPage_G201978700160001.mxf_20200418_121553.258.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "蜥蜴 ep15",
-                "src": "./s_動物大明星_files/WebListPage_G201978700150001.mxf_20200411_110622.909.jpg",
+                "src": "/static/5009/WebListPage_G201978700150001.mxf_20200411_110622.909.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "鸸鶓 ep14",
-                "src": "./s_動物大明星_files/WebListPage_G201978700140001.mxf_20200328_173057.186.jpg",
+                "src": "/static/5009/WebListPage_G201978700140001.mxf_20200328_173057.186.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -573,7 +573,7 @@
         "title": "台泰由你遊-台灣篇",
         "desc": "【4K精彩呈現】「台泰由你遊」是旅遊節目嗎？不是，因為我們關注的遠比旅遊多更多。「台泰由你遊」是實境節目嗎？也不是，因為我們的鏡頭總是深陷其中，並非冷靜的紀錄一切。若要認真定義「台泰由你遊」，我們可以說這是一個「體驗式的人文紀實節目」，而台灣和泰國的社區就是我們的主角。話說兩人成雙、三人成眾，任何一個區域只要有民眾群居，就可以形成社區。台灣的社區走過二、三十年的社區總體營造，凝聚各種在地聲音後升級為社區創生，開創出一條充滿在地文化特色的社區之路。泰國的社區，這幾年從速食式的觀光消費模式中轉型，從傳統與在地產業出發，逐漸摸索出一條南洋國家的自然社區之路。「台泰由你遊--Taiwan」系列是以4K畫質拍攝，由台灣主持人.琡婷帶著泰籍主持人.Wave走進台灣北、中、南、東一共六個社區，以深度體驗的模式和在地居民一起生活、走讀社區的各個角落。透過節目，觀眾將可以貼近台東原住民部落的原始生活；可以和老礦工在金瓜石野溪中一邊淘金一邊話當年；可以跟著返鄉青年在大火後的苑裡市場廢墟中找尋重生的可能；還可以和阿公阿嬤一起割稻、共餐，感受長輩們想要分享自己生活的那份熱情。藉由「台泰由你遊--Taiwan」的帶領，觀眾將可以和主持人一起走進台灣社區的客廳，不只作客，更可以和在地人一起思索台灣社區未來的各種可能。",
         "caption": "Equal",
-        "imgSrc": "./s_台泰由你遊-台灣篇_files/WebItemPage_00.jpg",
+        "imgSrc": "/static/5010/WebItemPage_00.jpg",
         "date": "2020-10",
         "epNum": "更新至第 5 集",
         "category": [
@@ -590,13 +590,13 @@
         "item": [
             {
                 "name": "苗栗.苑裡 ep5",
-                "src": "./s_台泰由你遊-台灣篇_files/WebListPage_05.jpg",
+                "src": "/static/5010/WebListPage_05.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "台東.東河部落與鸞山森林博物館 ep1",
-                "src": "./s_台泰由你遊-台灣篇_files/WebListPage_截圖02.jpg",
+                "src": "/static/5010/WebListPage_截圖02.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -608,7 +608,7 @@
         "title": "吉娃斯愛科學:新同學來了",
         "desc": "因為飛鼠學校太好玩，吸引了排灣「山海部落」的慕妮帶著黑熊麥麥苡一起來學習。慕妮有著跟吉娃斯截然不同的沉穩個性，又是部落的未來接班人，讓吉娃斯很羨慕；不過在經過一段日子的相處之後，吉娃斯才發現原來自己也有讓慕妮羨慕的地方。後來，吉娃斯和巴彥、飛卉、乃奈在慕妮的邀請下前往山海部落，認識排灣族的福球、盪鞦韆、陶珠等文化，以及融合其中的科學知識。有趣的科學知識與部落文化，讓大夥兒在玩樂中學習、成長，也因此成了彼此交心的好朋友。【本節目由於版權限制，設有觀看期限，敬請把握觀看時間】",
         "caption": "Equal",
-        "imgSrc": "./s_吉娃斯愛科學_files/WebItemPage_00.jpg",
+        "imgSrc": "/static/5011/WebItemPage_00.jpg",
         "date": "2020-10",
         "epNum": "更新至第 10 集",
         "category": [
@@ -626,31 +626,31 @@
         "item": [
             {
                 "name": "慕妮的果樹：斜面運動 ep10",
-                "src": "./s_吉娃斯愛科學_files/WebListPage_10.jpg",
+                "src": "/static/5011/WebListPage_10.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep5"
             },
             {
                 "name": "神奇石板屋：石板屋構造 ep9",
-                "src": "./s_吉娃斯愛科學_files/WebListPage_9.jpg",
+                "src": "/static/5011/WebListPage_9.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep4"
             },
             {
                 "name": "頑石的熱情：熱容量 ep8",
-                "src": "./s_吉娃斯愛科學_files/WebListPage_8.jpg",
+                "src": "/static/5011/WebListPage_8.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "開心看雲去：莢狀雲形成與氣候 ep7",
-                "src": "./s_吉娃斯愛科學_files/WebListPage_7.jpg",
+                "src": "/static/5011/WebListPage_7.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "誰的眼淚在發光：螢火蟲發光原理 ep6",
-                "src": "./s_吉娃斯愛科學_files/WebListPage_6.jpg",
+                "src": "/static/5011/WebListPage_6.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -662,7 +662,7 @@
         "title": "咪咪貓的奇幻之旅",
         "desc": "影片以林容生開著鮮黃色的瓦斯桶貨車，穿梭淡水的大街小巷開始。年輕時，他曾是在火場出生入死、戰功輝煌的知名義消，現在卻只能每天與每況愈下的生意、婚姻危機搏鬥。服務的客戶多半屬於居住在舊式公寓的年長者，他們也跟桶裝瓦斯業一樣日漸西下。 在喘不過氣的生活中，他忙裡偷閒在大街小巷畫一隻黃底黑邊的「咪咪貓」塗鴉，成千上萬的貓塗鴉在淡水的各處，凝視著人們的生活。而另一面的淡水，被戲稱為「鬼城」的淡海新市鎮，豪宅高樓坐地而起，在遼闊的荒野裡樹立起一棟棟華美大廈。輕軌工程軌道越鋪越長、地面上的舉牌工人面無表情地兜售建案。影片以既寫實又奇幻的風格，將人物故事與都市開發的背景交織為一體，都市成長伴隨著消逝，那些咪咪貓塗鴉，最終也經不起風吹日曬而逐漸斑駁。面對宿命般的消逝，我們能記得多少，又會遺忘多少？",
         "caption": "Equal",
-        "imgSrc": "./s_咪咪貓的奇幻之旅_files/WebItemPage_20.jpg",
+        "imgSrc": "/static/5012/WebItemPage_20.jpg",
         "date": "2020-9",
         "epNum": "全 1 集",
         "direct": "鄭治明",
@@ -686,7 +686,7 @@
         "item": [
             {
                 "name": "咪咪貓的奇幻之旅",
-                "src": "./s_咪咪貓的奇幻之旅_files/WebListPage_23.jpg",
+                "src": "/static/5012/WebListPage_23.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -698,7 +698,7 @@
         "title": "噬罪者",
         "desc": "涉嫌殺害高中女生李曉君被判刑的王翔，過了十多年的牢獄生活後終於假釋出獄。王翔回家，對媽媽和弟弟王杰原本平靜的生活帶來不少衝擊。王母很心疼王翔失去自由那麼久，擔心他難以適應新生活。王杰對交往三年的女朋友洪怡安隱瞞了自己有個坐牢的哥哥，如今他不得不向女友說出實情。原本打算安靜展開新生活的王翔，卻因一樁交通意外事件，讓他的過去被曝光，卻也因此與大學時期的女友沈雯青意外重逢。然而叛逆的青少女失蹤，警方、少女的母親，和當年受害者的家人都認為是他再度犯案；大家認定的加害者，變成了無法辯駁的受害者，他要如何突破社會的歧視與被害者家庭的原諒，重拾平凡的人生?得獎▲第55屆電視金鐘獎戲劇節目女配角獎-蔡淑臻",
         "caption": "Equal",
-        "imgSrc": "./s_噬罪者_files/WebItemPage_hatethesin_1920.jpg",
+        "imgSrc": "/static/5013/WebItemPage_hatethesin_1920.jpg",
         "date": "2020-9",
         "epNum": "全 13 集",
         "direct": "賴孟傑、張亨如",
@@ -730,61 +730,61 @@
         "item": [
             {
                 "name": "褪色 ep10",
-                "src": "./s_噬罪者_files/WebListPage_10.jpg",
+                "src": "/static/5013/WebListPage_10.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep10"
             },
             {
                 "name": "負罪 ep9",
-                "src": "./s_噬罪者_files/WebListPage_9.jpg",
+                "src": "/static/5013/WebListPage_9.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep9"
             },
             {
                 "name": "失格 ep8",
-                "src": "./s_噬罪者_files/WebListPage_8.jpg",
+                "src": "/static/5013/WebListPage_8.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep8"
             },
             {
                 "name": "皮囊 ep7",
-                "src": "./s_噬罪者_files/WebListPage_7.jpg",
+                "src": "/static/5013/WebListPage_7.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep7"
             },
             {
                 "name": "風箏 ep6",
-                "src": "./s_噬罪者_files/WebListPage_6.jpg",
+                "src": "/static/5013/WebListPage_6.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep6"
             },
             {
                 "name": "失眠 ep5",
-                "src": "./s_噬罪者_files/WebListPage_5.jpg",
+                "src": "/static/5013/WebListPage_5.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep5"
             },
             {
                 "name": "感染 ep4",
-                "src": "./s_噬罪者_files/WebListPage_4.jpg",
+                "src": "/static/5013/WebListPage_4.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep4"
             },
             {
                 "name": "偏盲 ep3",
-                "src": "./s_噬罪者_files/WebListPage_3.jpg",
+                "src": "/static/5013/WebListPage_3.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "秘密 ep2",
-                "src": "./s_噬罪者_files/WebListPage_2.jpg",
+                "src": "/static/5013/WebListPage_2.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "自由 ep1",
-                "src": "./s_噬罪者_files/WebListPage_1-2018386-1-1.mxf_20190604_150158.985.jpg",
+                "src": "/static/5013/WebListPage_1-2018386-1-1.mxf_20190604_150158.985.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -796,7 +796,7 @@
         "title": "地洞",
         "desc": "片中主角永鴻，是高雄拍片支援中心的短期約聘人員，他平常協助劇組勘景，偶爾也客串一些角色。紀錄的同時，永鴻正在一處剛開放的軍事遺址－地洞，幫某劇組擔任臨時演員。之前他曾寫過一個劇本，故事關於他自己，一家三口，過勞早逝的母親，和一個又賭又嫖、長期家暴母親的「那個人」。而這部影片，就是從這個劇本開始……",
         "caption": "Equal",
-        "imgSrc": "./s_地洞_files/WebItemPage_1.jpg",
+        "imgSrc": "/static/5014/WebItemPage_1.jpg",
         "date": "2020-9",
         "epNum": "全 1 集",
         "direct": "許慧如",
@@ -820,7 +820,7 @@
         "item": [
             {
                 "name": "地洞",
-                "src": "./s_地洞_files/WebListPage_4.jpg",
+                "src": "/static/5014/WebListPage_4.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -832,7 +832,7 @@
         "title": "大吉",
         "desc": "台灣高等法院法警室裡，法警貴武抽到一支「吉」籤，那代表他明天要上場槍決一名死囚。貴武帶著歉意來到茶水間，請託學長信全代班，因為貴武的老婆不久前才懷孕，他擔心這個任務會替新生命帶來厄運。爽快答應代班的信全回到家，才想起自己答應明天要帶女兒去看電影，電影票都訂好了。面對太太、女兒的質疑，信全也不敢說出自己明天要執行的任務。他輾轉請託姑姑、舅舅代替他陪女兒看電影的過程中，信全愈發感到焦慮。他發現比起上刑場槍決，他更想陪自己的女兒去看電影。於是大半夜的，信全騎車來到貴武家樓下，試圖把任務再推回給貴武。得獎▲第55屆電視金鐘獎電視電影獎電視電影獎迷你劇集（電視電影）男主角獎-游安順迷你劇集（電視電影）編劇獎-靳家驊",
         "caption": "Equal",
-        "imgSrc": "./s_大吉_files/WebItemPage_101.jpg",
+        "imgSrc": "/static/5015/WebItemPage_101.jpg",
         "date": "2020-9",
         "epNum": "全 1 集",
         "direct": "靳家驊",
@@ -863,7 +863,7 @@
         "item": [
             {
                 "name": "大吉",
-                "src": "./s_大吉_files/WebListPage_1.png",
+                "src": "/static/5015/WebListPage_1.png",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -875,7 +875,7 @@
         "title": "大地之詩",
         "desc": "法國空拍攝影師亞祖貝彤最新作品，由生命起源說起，依序介紹兩棲類、鳥類、哺乳類的出現，反思人類如何利用大自然，改變了與大自然間的關係。攝製精彩，充滿人文關懷。【本節目由於版權限制，設有觀看期限，敬請把握觀看時間】",
         "caption": "Equal",
-        "imgSrc": "./s_大地之詩_files/WebItemPage_1920x613.jpg",
+        "imgSrc": "/static/5016/WebItemPage_1920x613.jpg",
         "date": "2019-3",
         "epNum": "全 2 集",
         "category": [
@@ -899,7 +899,7 @@
         "item": [
             {
                 "name": "大地之詩 ep2",
-                "src": "./s_大地之詩_files/WebListPage_大地之詩2.jpg",
+                "src": "/static/5016/WebListPage_大地之詩2.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -911,7 +911,7 @@
         "title": "天亮前的戀愛故事",
         "desc": "八十年前，來自異鄉的文學青年—翁鬧，在東京高圓寺寫下散文：天亮前的戀愛故事，一名年輕男子對一名風俗女子，整夜呢喃自語的獨白。太平洋戰爭爆發的前一年，翁鬧於日本高圓寺過世，得年三十歲，至今死因成謎，翁鬧留下的小說及散文手稿，記錄著這個他生活六年，他稱終於不再「被什麼追趕著似地，踏不著地」，最後還是「不得不又淪落至此」的高圓寺。八十年後，帶著十六釐米攝影機及散文「東京郊外浪人街—高圓寺界隈」來到高圓寺，循著翁鬧筆下的人物與地名：喫茶店、電影院、食堂、酒吧、平交道，尋找曾經存在而已然被遺忘的那段過去的時光⋯",
         "caption": "Equal",
-        "imgSrc": "./s_天亮前的戀愛故事_files/WebItemPage_10.jpg",
+        "imgSrc": "/static/5017/WebItemPage_10.jpg",
         "date": "2020-9",
         "epNum": "全 1 集",
         "direct": "林君昵,黃邦銓",
@@ -935,7 +935,7 @@
         "item": [
             {
                 "name": "天亮前的戀愛故事",
-                "src": "./s_天亮前的戀愛故事_files/WebListPage_12.jpg",
+                "src": "/static/5017/WebListPage_12.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -947,7 +947,7 @@
         "title": "少年亞瑟王",
         "desc": "《少年亞瑟王》是細緻又出色的3D動畫節目，亞瑟與圓桌武士朋友為主要角色，青春洋溢的造型、冒險犯難的精神、奇幻魔法的場景，讓每一集故事充滿獨特的冒險奇幻色彩，不同的魔法勢力將一一現身卡美洛王國，亞瑟和朋友們要好好守護國王的王者之劍，讓神奇的魔法維護正義與和平。【本節目由於版權限制，設有觀看期限，敬請把握觀看時間】",
         "caption": "Equal",
-        "imgSrc": "./s_少年亞瑟王_files/WebItemPage_01.jpg",
+        "imgSrc": "/static/5018/WebItemPage_01.jpg",
         "date": "2020-9",
         "epNum": "更新至第 24 集",
         "category": [
@@ -965,25 +965,25 @@
         "item": [
             {
                 "name": "巨人殺手薩格拉墨 ep24",
-                "src": "./s_少年亞瑟王_files/WebListPage_24.jpg",
+                "src": "/static/5018/WebListPage_24.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep4"
             },
             {
                 "name": "互換身分 ep23",
-                "src": "./s_少年亞瑟王_files/WebListPage_23.jpg",
+                "src": "/static/5018/WebListPage_23.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "蒙面弓箭手 ep22",
-                "src": "./s_少年亞瑟王_files/WebListPage_2.jpg",
+                "src": "/static/5018/WebListPage_2.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "膽小騎士 ep21",
-                "src": "./s_少年亞瑟王_files/WebListPage_21.jpg",
+                "src": "/static/5018/WebListPage_21.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -995,7 +995,7 @@
         "title": "年尾巴",
         "desc": "除夕夜是家族團聚的日子,十歲女孩楊嵐,仍在等歌星母親回家。麻將聲、爆竹聲、碗筷觥籌聲,聲聲鼎沸,楊嵐心中成長的寂寞卻是如此空曠。那個年尾巴也是童年的尾巴,掉頭走的時候還搖著屁股。On Chinese New Year Eve, ten-year old Yang Lan anxiously waiting for her singer mother to come home. While the big family is celebrating loudly with Mahjong, Cireworks, dinner and laughs, she struggles to reconcile her urge to feel, at least for a brief moment, loved.2018｜台灣｜劇情短片｜Color｜22 分鐘｜建議8歲以上觀賞",
         "caption": "Equal",
-        "imgSrc": "./s_年尾巴_files/WebItemPage_1.jpg",
+        "imgSrc": "/static/5019/WebItemPage_1.jpg",
         "date": "2020-1",
         "epNum": "全 1 集",
         "direct": "楊婕",
@@ -1025,7 +1025,7 @@
         "item": [
             {
                 "name": "年尾巴",
-                "src": "./s_年尾巴_files/WebListPage_03.jpg",
+                "src": "/static/5019/WebListPage_03.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1037,7 +1037,7 @@
         "title": "憤怒的菩薩",
         "desc": "改編自日籍臺裔小說家陳舜臣同名小說《憤怒的菩薩》，以戰後初期台灣社會為場景，將錯綜複雜的國族議題轉為精彩的推理小說。1946，終戰後的第一年，台灣歸還給中國、日本殖民政府撤退、中日文在台灣交錯發聲。楊輝銘與好友中國留學生陶展文自日返臺；1946年的敏感時期，曾經協助日本的有力人士皆被視為「漢奸」，仍留在台灣的日本軍官川崎少佐此時卻被殺害。楊輝銘女友林彩琴的哥哥林景維與其世交陸宙之前赴大陸投身抗日組織，傳言兩人已死。在川崎少佐被殺害後，林景維竟然現身，死而復生。推理能力過人的陶展文開始調查，未料掀開背後更大的秘密……。入圍▲第54屆電視金鐘獎迷你劇集獎迷你劇集（電視電影）導演獎-許肇任燈光獎-丁海德得獎▲第54屆電視金鐘獎戲劇類節目攝影獎-韓紀軒",
         "caption": "Equal",
-        "imgSrc": "./s_憤怒的菩薩_files/WebItemPage_1-2017869-WEB-1920×613.jpg",
+        "imgSrc": "/static/5020/WebItemPage_1-2017869-WEB-1920×613.jpg",
         "date": "2018-8",
         "epNum": "全 4 集",
         "direct": "許肇任",
@@ -1068,25 +1068,25 @@
         "item": [
             {
                 "name": "憤怒的菩薩 ep4",
-                "src": "./s_憤怒的菩薩_files/WebListPage_1-2017869-1-4-WEB-300×169.png",
+                "src": "/static/5020/WebListPage_1-2017869-1-4-WEB-300×169.png",
                 "url": "javascript:void(0)",
                 "id": "ep4"
             },
             {
                 "name": "憤怒的菩薩 ep3",
-                "src": "./s_憤怒的菩薩_files/WebListPage_1-2017869-1-3-WEB-300×169.png",
+                "src": "/static/5020/WebListPage_1-2017869-1-3-WEB-300×169.png",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "憤怒的菩薩 ep2",
-                "src": "./s_憤怒的菩薩_files/WebListPage_1-2017869-1-2-WEB-300×169.png",
+                "src": "/static/5020/WebListPage_1-2017869-1-2-WEB-300×169.png",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "憤怒的菩薩 ep1",
-                "src": "./s_憤怒的菩薩_files/WebListPage_1-2017869-1-1-WEB-300×169.png",
+                "src": "/static/5020/WebListPage_1-2017869-1-1-WEB-300×169.png",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1098,7 +1098,7 @@
         "title": "我們與惡的距離",
         "desc": "品味新聞台編輯台主管宋喬安的兒子是二年前李曉明無差別殺人事件的罹難者，先生劉昭國是網路先驅報的創辦人，夫妻在兒子走後因現實磨難漸行漸遠準備離婚，但11歲的女兒行為卻日漸失序，為了女兒終逼二人必須重新檢視自己身上的傷口。李曉明的辯護律師王赦，在李曉明死刑定讞之後，仍想要了解其犯罪動機，鍥而不捨的他，開啟了眾人命運的連結……得獎▲第54屆電視金鐘獎戲劇節目獎戲劇節目女主角獎-賈靜雯戲劇節目男配角獎-溫昇豪戲劇節目女配角獎-曾沛慈戲劇節目導演獎-林君陽戲劇節目編劇獎-呂蒔媛",
         "caption": "Equal",
-        "imgSrc": "./s_我們與惡的距離_files/WebItemPage_與惡_吳糠仁_banner_1920_new.png",
+        "imgSrc": "/static/5021/WebItemPage_與惡_吳糠仁_banner_1920_new.png",
         "date": "2019-3",
         "epNum": "全 10 集",
         "direct": "林君陽 (編劇：呂蒔媛)",
@@ -1129,61 +1129,61 @@
         "item": [
             {
                 "name": "未來的樣子 ep10",
-                "src": "./s_我們與惡的距離_files/WebListPage_10.jpg",
+                "src": "/static/5021/WebListPage_10.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep10"
             },
             {
                 "name": "黎明之前 ep9",
-                "src": "./s_我們與惡的距離_files/WebListPage_9.jpg",
+                "src": "/static/5021/WebListPage_9.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep9"
             },
             {
                 "name": "眾生皆有病 ep8",
-                "src": "./s_我們與惡的距離_files/WebListPage_8a.jpg",
+                "src": "/static/5021/WebListPage_8a.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep8"
             },
             {
                 "name": "霸凌 ep7",
-                "src": "./s_我們與惡的距離_files/WebListPage_7a.jpg",
+                "src": "/static/5021/WebListPage_7a.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep7"
             },
             {
                 "name": "槍響之後 ep6",
-                "src": "./s_我們與惡的距離_files/WebListPage_6.jpg",
+                "src": "/static/5021/WebListPage_6.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep6"
             },
             {
                 "name": "罪人 ep5",
-                "src": "./s_我們與惡的距離_files/WebListPage_5.jpg",
+                "src": "/static/5021/WebListPage_5.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep5"
             },
             {
                 "name": "病識感 ep4",
-                "src": "./s_我們與惡的距離_files/WebListPage_4.jpg",
+                "src": "/static/5021/WebListPage_4.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep4"
             },
             {
                 "name": "裂痕 ep3",
-                "src": "./s_我們與惡的距離_files/WebListPage_3.jpg",
+                "src": "/static/5021/WebListPage_3.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "母親節 ep2",
-                "src": "./s_我們與惡的距離_files/WebListPage_與惡2.jpg",
+                "src": "/static/5021/WebListPage_與惡2.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "受害者 ep1",
-                "src": "./s_我們與惡的距離_files/WebListPage_與惡1.jpg",
+                "src": "/static/5021/WebListPage_與惡1.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1195,7 +1195,7 @@
         "title": "我的AI家人 Life with Robots",
         "desc": "【觀看期限至10/23】科技界將人工智慧視作解決問題的夢幻工具，近年來，不只是農業、製造業、醫院、交通、零售業、到處可見各式各樣的創新AI應用，最新型的機器人甚至連情感都能表現出來。現在，機器人不只侷限在各種工作場域，而且研究者也正努力要讓AI以一個全新的家人身分進到家庭裡。人形機器人Nao，被用來教導自閉兒的情感教育，受訪的香港心理學家蘇詠芝副教授指出，自閉兒童喜歡「可預測性」（predictability），而機器人本身表達方式的固定性，可以降低自閉兒與人直接相處的壓力，較容易進入狀況，並藉由模仿機器人，開始與真人治療師互動。人類創造了機器人，機器人的終極目標就是要「像人類一樣」，但某些時候，機器人卻能反過來成為老師，幫助孩童學習。機器人除了制式提供資訊，也可能替代許多需要情緒互動的情境。機器人SILBOT的臉上搭載一台平板電腦，可以表現出各式各樣的表情，它被研發出來的目的是希望能與老人家作伴、預防失智症。韓國的腦神經內科醫師金乾荷醫師，進行以SILBOT預防失智症的實驗，結果顯示，使用機器人進行訓練的組別，減少的大腦皮質，只有完全沒做訓練那組的七分之一。隨著高齡化社會來臨，機器人可能開始扮演有如家人般的新角色，不過，這也伴隨著某種隱憂，如果機器人成為了家庭的一份子，是否也會破壞家人間本該有的緊密連帶？A.I.機器人也許未必要「取代」家人，也可能作為媒介，成為人際關係的潤滑劑。失智症患者的情緒反應與溝通問題，經常導致失智症患者的家人疲於照護，日本和臺灣的研究人員進行了一場新的實驗，他們將機器人TELENOID交到失智症長者手上，TELENOID竟成就了奇妙的催化效果——脾氣暴躁的老人家，開始放軟聲音唱起了情歌；憂鬱的老太太歡喜地對著TELENOID說話，還為它穿衣。TELENOID好像觸動了這些老人家心中柔軟的位置，激發他們想要照顧人的心情，很有潛力在未來可做為改善失智症長者與家人間關係的催化劑。",
         "caption": "Equal",
-        "imgSrc": "./s_我的AI家人_files/WebItemPage_ai2.png",
+        "imgSrc": "/static/5022/WebItemPage_ai2.png",
         "date": "2019-12",
         "epNum": "全 1 集",
         "direct": "中山宙",
@@ -1220,7 +1220,7 @@
         "item": [
             {
                 "name": "我的AI家人 Life with Robots",
-                "src": "./s_我的AI家人_files/WebListPage_1.jpg",
+                "src": "/static/5022/WebListPage_1.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1232,7 +1232,7 @@
         "title": "我的婆婆怎麼那麼可愛",
         "desc": "【每周六晚間23:00一次上架兩集】小鷗(黃姵嘉 飾)本名奚伊鷗，沒錯！就是CEO，她是蘇家最小的媳婦，她也是人人畏懼的「帶賽小鷗」，因為在她嫁進門前後，公公跟老公就相繼掛掉。因此，她婆婆蘇林彩香（鍾欣凌 飾）不但要承受著喪夫、喪子之痛，還要獨自面對家族餅店「珍賀齋」的倒閉危機，偏偏她所剩的四個子女都不願意承接家族事業，讓彩香決定北上依靠子女們，心裡打了如意算盤，以為可以炫耀兒女事業有成享享清福。想不到這些「不孝子們」各懷鬼胎，像詐騙集團一樣要訛詐自己的養老金，便上演媽媽與子女、婆婆與媳婦間瘋狂、脫序的家族戰爭。小鷗與彩香本來打算從此各過各的日子，井水不犯河水，但小鷗陸續聽到蘇家兒女詐騙的誇張行徑，同情心、好勝心湧上心頭的她決定與「珍賀齋」忠誠的糕餅師傅發貴（張書偉 飾）留守餅舖繼續拼下去！命運是如此的巧妙，蘇家的鬥爭能化解嗎？小鷗能助彩香一臂之力挽救母子問題嗎？「珍賀齋」還有機會起死回生「重振雄風」嗎？讓我們繼續看下去⋯⋯",
         "caption": "Equal",
-        "imgSrc": "./s_我的婆婆怎麼那麼可愛_files/WebItemPage_婆婆_0722_banner_1920_f.jpg",
+        "imgSrc": "/static/5023/WebItemPage_婆婆_0722_banner_1920_f.jpg",
         "date": "2020-6",
         "epNum": "更新至第 38 集",
         "direct": "鄧安寧",
@@ -1257,61 +1257,61 @@
         "item": [
             {
                 "name": "我的婆婆怎麼那麼可愛 ep10",
-                "src": "./s_我的婆婆怎麼那麼可愛_files/WebListPage_10.jpg",
+                "src": "/static/5023/WebListPage_10.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep10"
             },
             {
                 "name": "我的婆婆怎麼那麼可愛 ep9",
-                "src": "./s_我的婆婆怎麼那麼可愛_files/WebListPage_9.jpg",
+                "src": "/static/5023/WebListPage_9.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep9"
             },
             {
                 "name": "我的婆婆怎麼那麼可愛 ep8",
-                "src": "./s_我的婆婆怎麼那麼可愛_files/WebListPage_8.jpg",
+                "src": "/static/5023/WebListPage_8.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep8"
             },
             {
                 "name": "我的婆婆怎麼那麼可愛 ep7",
-                "src": "./s_我的婆婆怎麼那麼可愛_files/WebListPage_7.jpg",
+                "src": "/static/5023/WebListPage_7.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep7"
             },
             {
                 "name": "我的婆婆怎麼那麼可愛 ep6",
-                "src": "./s_我的婆婆怎麼那麼可愛_files/WebListPage_6.jpg",
+                "src": "/static/5023/WebListPage_6.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep6"
             },
             {
                 "name": "我的婆婆怎麼那麼可愛 ep5",
-                "src": "./s_我的婆婆怎麼那麼可愛_files/WebListPage_5.jpg",
+                "src": "/static/5023/WebListPage_5.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep5"
             },
             {
                 "name": "我的婆婆怎麼那麼可愛 ep4",
-                "src": "./s_我的婆婆怎麼那麼可愛_files/WebListPage_4.jpg",
+                "src": "/static/5023/WebListPage_4.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep4"
             },
             {
                 "name": "我的婆婆怎麼那麼可愛 ep3",
-                "src": "./s_我的婆婆怎麼那麼可愛_files/WebListPage_3.jpg",
+                "src": "/static/5023/WebListPage_3.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "我的婆婆怎麼那麼可愛 ep2",
-                "src": "./s_我的婆婆怎麼那麼可愛_files/WebListPage_2.png",
+                "src": "/static/5023/WebListPage_2.png",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "我的婆婆怎麼那麼可愛 ep1",
-                "src": "./s_我的婆婆怎麼那麼可愛_files/WebListPage_EP1.jpg",
+                "src": "/static/5023/WebListPage_EP1.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1323,7 +1323,7 @@
         "title": "東離劍遊紀",
         "desc": "昔日一場魔界大軍與人界的戰爭中，人類鍛造出諸多足以發揮無匹力量的兵器─「神誨魔械」。戰爭過後，這批為數眾多的神誨魔械被交由護印師長久看守，其中由丹衡、 丹翡這對護印師兄妹所守護的，乃是最強兵器「天刑劍」。 如今，天刑劍卻落入以蔑天骸為首的惡人手中⋯⋯台日合製之戲劇奇幻武俠偶戲《Thunderbolt Fantasy 東離劍遊紀》是一部以冒險劇情為主軸的故事，描述三位主角 「丹翡」、「凜雪鴉」、「殤不患」為了找回被奪走的最強兵器「天刑劍」，而踏向惡人所在地「七罪塔」的冒險旅程。 整部劇集不僅將結合霹靂空前絕後、具衝擊力的戰鬥場景畫面拍攝，也囊括主角們為對抗強大的敵人，在旅程中聚集同伴，團結一心克服諸多考驗等激憤人心的冒險小說式劇情。《Thunderbolt Fantasy 東離劍遊紀》由台灣創新偶藝文化的「霹靂布袋戲」及在日本動畫界中知名活躍的大師 「Nitroplus 虛淵玄」聯手打造！【本節目由於版權限制，設有觀看期限，敬請把握觀看時間】",
         "caption": "Equal",
-        "imgSrc": "./s_東離劍遊紀_files/WebItemPage_01.jpg",
+        "imgSrc": "/static/5024/WebItemPage_01.jpg",
         "date": "2020-9",
         "epNum": "更新至第 7 集",
         "category": [
@@ -1348,7 +1348,7 @@
         "item": [
             {
                 "name": "魔脊山 ep7",
-                "src": "./s_東離劍遊紀_files/WebListPage_7.jpg",
+                "src": "/static/5024/WebListPage_7.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1360,7 +1360,7 @@
         "title": "殺人之眾",
         "desc": "阿文，在2014年非常意外地成為了一個事件裡的主要人物，在社群媒體與廣播媒體大量發送下，遍及到身邊所有人都知道此事，但無從解釋那只是一次的偶然，只能任由人們詮釋、想像、解讀。",
         "caption": "Equal",
-        "imgSrc": "./s_殺人之眾_files/WebItemPage_00.jpg",
+        "imgSrc": "/static/5025/WebItemPage_00.jpg",
         "date": "2020-9",
         "epNum": "全 1 集",
         "direct": "林聖文",
@@ -1384,7 +1384,7 @@
         "item": [
             {
                 "name": "殺人之眾",
-                "src": "./s_殺人之眾_files/WebListPage_2.jpg",
+                "src": "/static/5025/WebListPage_2.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1396,7 +1396,7 @@
         "title": "水果冰淇淋2020",
         "desc": "「水果冰淇淋」是台灣公共電視台，最受歡迎的兒童節目。從1998年開始製播至今，是台灣目前最長壽的學齡前兒童節目。節目中的靈魂人物是永遠65歲的水果奶奶，他帶領著四個幼稚園年齡的布偶小朋友—淇淇、琳琳、莎拉、哇嚕，一起在節目中分享生活中的喜怒哀樂。節目中除了好看的戲劇外，更有好聽好看的歌曲和動畫故事，還有廣受小朋友歡迎的闖關遊戲\"小勇士\"，這是一個可以讓小朋友親身體驗克服困難的實作單元。【本節目由於版權限制，設有觀看期限，敬請把握觀看時間】",
         "caption": "Equal",
-        "imgSrc": "./s_水果冰淇淋2020_files/WebItemPage_2.jpg",
+        "imgSrc": "/static/5026/WebItemPage_2.jpg",
         "date": "2020-1",
         "epNum": "更新至第 2320 集",
         "category": [
@@ -1414,13 +1414,13 @@
         "item": [
             {
                 "name": "幫幫忙 ep2320",
-                "src": "./s_水果冰淇淋2020_files/WebListPage_20.jpg",
+                "src": "/static/5026/WebListPage_20.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "存錢筒 ep2319",
-                "src": "./s_水果冰淇淋2020_files/WebListPage_19.jpg",
+                "src": "/static/5026/WebListPage_19.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1432,7 +1432,7 @@
         "title": "溫泉屋小女將",
         "desc": "改編自日本作家令丈裕子的兒童小說，描述就讀國小六年級的小織，在一場意外中失去了雙親，因而投靠經營「春之屋」溫泉旅館的奶奶。在車禍中倖存的小織意外地獲得通靈的能力，因而認識了溫泉屋中的三個幽靈，在旅館面臨後繼無人的情況下，小織必須接受成為老闆娘必經的「小女將訓練」。天生少根筋的她儘管每天都遇到嘲笑與挫折，但始終積極樂觀以對，並在旅館中幽靈們的鼓勵之下逐漸成長。【本節目由於版權限制，設有觀看期限，敬請把握觀看時間】",
         "caption": "Equal",
-        "imgSrc": "./s_溫泉屋小女將_files/WebItemPage_spring1920613.png",
+        "imgSrc": "/static/5027/WebItemPage_spring1920613.png",
         "date": "2020-3",
         "epNum": "全 24 集",
         "category": [
@@ -1453,25 +1453,25 @@
         "item": [
             {
                 "name": "小老闆娘參加甜點比賽 ep4",
-                "src": "./s_溫泉屋小女將_files/WebListPage_G202031600040001.mxf_20200401_114756.901.jpg",
+                "src": "/static/5027/WebListPage_G202031600040001.mxf_20200401_114756.901.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep4"
             },
             {
                 "name": "小老闆娘失敗連連 ep3",
-                "src": "./s_溫泉屋小女將_files/WebListPage_G202031600030001.mxf_20200401_114128.700.jpg",
+                "src": "/static/5027/WebListPage_G202031600030001.mxf_20200401_114128.700.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "小老闆娘要小心粉飄飄 ep2",
-                "src": "./s_溫泉屋小女將_files/WebListPage_2.jpg",
+                "src": "/static/5027/WebListPage_2.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "我怎麼會是小老闆娘 ep1",
-                "src": "./s_溫泉屋小女將_files/WebListPage_G202031600010001.mxf_20200325_110045.715.jpg",
+                "src": "/static/5027/WebListPage_G202031600010001.mxf_20200325_110045.715.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1483,7 +1483,7 @@
         "title": "潘朵拉",
         "desc": "浪漫天真的女孩可晴，靠著閨蜜佳伶的幫助，在一次直播中意外爆紅。這卻把可晴推向了當紅直播主小瑄的懷中。在直播世界獲得的成功，餵養了可晴的虛榮心，但代價是撕裂可晴與佳伶間深厚的連結，使她漸漸失去生活和自我。",
         "caption": "Equal",
-        "imgSrc": "./s_潘朵拉_files/WebItemPage_pandora613.jpg",
+        "imgSrc": "/static/5028/WebItemPage_pandora613.jpg",
         "date": "2020-1",
         "epNum": "全 1 集",
         "direct": "吳兆鈞,李原僑",
@@ -1506,7 +1506,7 @@
         "item": [
             {
                 "name": "潘朵拉 The Gift of All",
-                "src": "./s_潘朵拉_files/WebListPage_pandora05.jpg",
+                "src": "/static/5028/WebListPage_pandora05.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1518,7 +1518,7 @@
         "title": "無事坐巴士2",
         "desc": "行駛在路上的巴士，乘客三三兩兩，有人提著給家人準備的鮮食，有人低頭補眠，有人相互倚頭享受甜蜜時光。時間在上下車間不停更迭，歲月在世代眼中緩緩流逝，唯有人們的故事牢牢留在這片土地，不曾離去。台灣公路有四萬一千多公里，一條路象徵一個人、一個家庭、或是一個鄉鎮對外的聯絡命脈，《無事 坐巴士》將以路線串起不同的故事；以台語發音深探站牌名稱，嘉義縣的「六腳」非指六隻腳，而是六戶人家；彰化縣的「芬園」則因種植菸草而得名⋯，透過台語地名爬梳歷史與人文軌跡，發現平凡事物的不凡光芒。巴士穿梭大街小巷，在地人抱著「有事」的心情出發完成任務，外地旅人則以「無事」的好奇認真踏尋，「無事坐巴士」將帶著大家坐上公車，用公路交織出人與土地最緊密的情感地圖。入圍▲第55屆電視金鐘獎生活風格節目獎",
         "caption": "Equal",
-        "imgSrc": "./s_無事坐巴士2_files/WebItemPage_1.jpg",
+        "imgSrc": "/static/5029/WebItemPage_1.jpg",
         "date": "2020-7",
         "epNum": "更新至第 64 集",
         "category": [
@@ -1544,61 +1544,61 @@
         "item": [
             {
                 "name": "新北/蘆洲,新莊,樹林 ep63",
-                "src": "./s_無事坐巴士2_files/WebListPage_01.png",
+                "src": "/static/5029/WebListPage_01.png",
                 "url": "javascript:void(0)",
                 "id": "ep10"
             },
             {
                 "name": "新竹/香山,峨眉,寶山 ep62",
-                "src": "./s_無事坐巴士2_files/WebListPage_62.jpg",
+                "src": "/static/5029/WebListPage_62.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep9"
             },
             {
                 "name": "台中/市區,大甲,大安,沙鹿 ep61",
-                "src": "./s_無事坐巴士2_files/WebListPage_61.jpg",
+                "src": "/static/5029/WebListPage_61.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep8"
             },
             {
                 "name": "台南/關廟,善化,六甲,後壁 ep60",
-                "src": "./s_無事坐巴士2_files/WebListPage_60.png",
+                "src": "/static/5029/WebListPage_60.png",
                 "url": "javascript:void(0)",
                 "id": "ep7"
             },
             {
                 "name": "高雄/大寮,林園 ep59",
-                "src": "./s_無事坐巴士2_files/WebListPage_59.jpg",
+                "src": "/static/5029/WebListPage_59.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep6"
             },
             {
                 "name": "基隆/基隆市區,七堵,八斗子 ep58",
-                "src": "./s_無事坐巴士2_files/WebListPage_58.jpg",
+                "src": "/static/5029/WebListPage_58.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep5"
             },
             {
                 "name": "嘉義/中埔,竹崎,梅山 ep57",
-                "src": "./s_無事坐巴士2_files/WebListPage_3-1.jpg",
+                "src": "/static/5029/WebListPage_3-1.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep4"
             },
             {
                 "name": "彰化/北斗,二林,芳苑, 王功 ep56",
-                "src": "./s_無事坐巴士2_files/WebListPage_0.jpg",
+                "src": "/static/5029/WebListPage_0.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "台北,新北/公館,木柵,石碇,坪林 ep56",
-                "src": "./s_無事坐巴士2_files/WebListPage_4.jpg",
+                "src": "/static/5029/WebListPage_4.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "台北/陽明山,金山 ep55",
-                "src": "./s_無事坐巴士2_files/WebListPage_3.jpg",
+                "src": "/static/5029/WebListPage_3.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1610,7 +1610,7 @@
         "title": "燒肉粽2019",
         "desc": "從小幫著父親還債，四十二歲的阿秀終於決定離開。在往車站的路上，她經過了算命攤，隨著眼前漸漸浮出的黑白畫面，她才知道原來這段父女的不解之緣，從上輩子就已經開始⋯⋯。",
         "caption": "Equal",
-        "imgSrc": "./s_燒肉粽2019_files/WebItemPage_燒肉粽_Banner_1920.png",
+        "imgSrc": "/static/5030/WebItemPage_燒肉粽_Banner_1920.png",
         "date": "2020-1",
         "epNum": "全 1 集",
         "direct": "陳定寧",
@@ -1633,7 +1633,7 @@
         "item": [
             {
                 "name": "燒肉粽2019",
-                "src": "./s_燒肉粽2019_files/WebListPage_燒.jpg",
+                "src": "/static/5030/WebListPage_燒.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1645,7 +1645,7 @@
         "title": "甜心兔",
         "desc": "超萌動畫《甜心兔》(Molang)主打溫馨、療癒、幽默風格，可愛的甜心兔與迷你的小雞為主角，輕鬆逗趣的生活故事為內容，每集約3分30秒。主角「甜心兔」以「兔子語言」溝通，近似默劇動畫的型態，角色的表情與動作豐富，簡單又詼諧的劇情，讓幼兒也看得開懷大笑。起初「甜心兔」是韓國插畫家所繪製的網路卡通人物，因其可愛的模樣深受大眾歡迎，後來國際合製成動畫劇集，成為當前熱門的兒童動畫節目。「甜心兔」是一隻外型圓滾滾、白嫩嫩的兔子，個性活潑，喜歡慵懶地過日子，最喜歡吃草莓口味的各式甜點，他有一群兔子朋友，也是外型圓嘟嘟的模樣，有灰色、咖啡色、或是點點、條紋等不同造型的兔子朋友，眾多角色都非常可愛。黃色小雞「Piu Piu」是甜心兔的貼身好友，身型嬌小可愛，甜心兔大約是小雞的三倍高，給予小雞一種受保護的安全感，彼此的個性大不相同，甜心兔熱情開朗、小雞則是害羞謹慎，他們一起組搖滾樂隊、參加園遊會、發現神奇飛毯、還要挑戰滑板高手，寓教於樂的精彩內容，非常推薦小朋友觀賞。【本節目由於版權限制，設有觀看期限，敬請把握觀看時間】",
         "caption": "Equal",
-        "imgSrc": "./s_甜心兔_files/WebItemPage_613.jpg",
+        "imgSrc": "/static/5031/WebItemPage_613.jpg",
         "date": "2020-5",
         "epNum": "更新至第 199 集",
         "category": [
@@ -1663,31 +1663,31 @@
         "item": [
             {
                 "name": "獨角獸 ep199",
-                "src": "./s_甜心兔_files/WebListPage_99.jpg",
+                "src": "/static/5031/WebListPage_99.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep5"
             },
             {
                 "name": "萬靈藥 ep198",
-                "src": "./s_甜心兔_files/WebListPage_98.jpg",
+                "src": "/static/5031/WebListPage_98.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep4"
             },
             {
                 "name": "尼斯湖 ep197",
-                "src": "./s_甜心兔_files/WebListPage_7.jpg",
+                "src": "/static/5031/WebListPage_7.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "三劍客 ep196",
-                "src": "./s_甜心兔_files/WebListPage_6.jpg",
+                "src": "/static/5031/WebListPage_6.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "當國王的一天 ep195",
-                "src": "./s_甜心兔_files/WebListPage_5.jpg",
+                "src": "/static/5031/WebListPage_5.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1699,7 +1699,7 @@
         "title": "盲人阿清",
         "desc": "15年前，阿清因為爸爸投資靈骨塔欠債而自殺，他憤而殺了靈骨塔業務。之後，他隱姓埋名在一漁村打黑工，其間愛上了越南女子阮春花，但阮春花也被靈骨塔業務詐騙逼債，阿清再度出手要解決這個詐騙業務阿國，可是他失手了，反而被阿國重擊而失明，阿清以盲人身分做了5年的牢，阿國被判15年。多年來，阿清睡前會抽一根煙，因為那是阿國抽的菸，他要記得那個味道。15年後，阿國出獄，社會容不下他，女兒和他形同陌路。他充滿恨意，尋覓著阿清……入圍▲第55屆電視金鐘獎迷你劇集（電視電影）男主角獎-洪都拉斯【洪勝德】迷你劇集（電視電影）男配角獎-游安順迷你劇集（電視電影）導演獎-薛朝輝迷你劇集（電視電影）編劇獎-薛朝輝得獎▲第55屆電視金鐘獎迷你劇集（電視電影）男配角獎-游安順",
         "caption": "Equal",
-        "imgSrc": "./s_盲人阿清_files/WebItemPage_盲3.jpg",
+        "imgSrc": "/static/5032/WebItemPage_盲3.jpg",
         "date": "2020-9",
         "epNum": "全 1 集",
         "direct": "薛朝輝",
@@ -1730,7 +1730,7 @@
         "item": [
             {
                 "name": "盲人阿清",
-                "src": "./s_盲人阿清_files/WebListPage_盲1.JPG",
+                "src": "/static/5032/WebListPage_盲1.JPG",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1742,7 +1742,7 @@
         "title": "神殿",
         "desc": "如果一個生命存活了上千年，通常會被讚譽為「神」。那麼，身處在四周都是上千年的巨木群中，就是進入活靈、活現的「神殿」。人，理當感受得到天地神聖靈性？台灣的森林生態系特色，從海岸水域到四千公尺的高山環境中，分布著四千四百多種原生維管束植物，部分種類是兩億年前的冰河孑遺植物，有些物種更深具聯合國「世界自然遺產」的價值。例如，「紅檜」、「扁柏」、「台灣杉」、「玉山圓柏」，皆是台灣特有珍貴古老樹種，更受到國內外植物生態學界的重視。《神殿》紀錄片以獨特觀點，詮釋古老森林美學、生態哲學內涵。影片中植物學家陳玉峰教授用敬畏、讚嘆的視野，演繹植物演化史，以及森林生態系的多樣性與功能，同時以環境倫理的觀點，講述台灣霧林生態系統的奧妙；也映照出人類與山林水土環境的互動關係。入圍▲第55屆電視金鐘獎非戲劇類節目導演獎-柯金源非戲劇類節目剪輯獎-蘇志宗聲音設計獎-Thomas Foguenne福多瑪、戴志光得獎▲第55屆電視金鐘獎非戲劇類節目導演獎-柯金源",
         "caption": "Equal",
-        "imgSrc": "./s_神殿_files/WebItemPage_02.png",
+        "imgSrc": "/static/5033/WebItemPage_02.png",
         "date": "2019-12",
         "epNum": "全 1 集",
         "direct": "柯金源",
@@ -1774,7 +1774,7 @@
         "item": [
             {
                 "name": "神殿",
-                "src": "./s_神殿_files/WebListPage_04.jpg",
+                "src": "/static/5033/WebListPage_04.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1786,7 +1786,7 @@
         "title": "空中看日本",
         "desc": "關於日本，竟然還有我們不知道的事情嗎？運用空中攝影，呈現最壯闊的絕景，從最北的北海道，到最南端的沖繩，拍盡自然風光，更深入大街小巷，介紹特殊行業的技職生活，體驗傳統與現代並存的衝突與美好。【本節目由於版權限制，設有觀看期限，敬請把握觀看時間】",
         "caption": "Equal",
-        "imgSrc": "./s_空中看日本_files/WebItemPage_10.jpg",
+        "imgSrc": "/static/5034/WebItemPage_10.jpg",
         "date": "2020-9",
         "epNum": "更新至第 5 集",
         "category": [
@@ -1810,7 +1810,7 @@
         "item": [
             {
                 "name": "珍寶之島 ep5",
-                "src": "./s_空中看日本_files/WebListPage_5.jpg",
+                "src": "/static/5034/WebListPage_5.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1822,7 +1822,7 @@
         "title": "第一鮪",
         "desc": "一艘遠洋漁船，一位抓黑鮪魚的老船長；一位和船長共事多年，準備退休的輪機長；一位上船已經8年，通台語也通一點英文的菲律賓漁工工頭；一位什麼都不會，但因為仲介說上台灣船賺比較快，就跑來討海的印尼人。每個在船上的人都有自己的目的，也都有自己的念想。大海中，甲板、船艙，就是世界的全部，船上所有的喜怒哀樂都被放大，互相碰撞、交織，讓人逃不開，避不掉。",
         "caption": "Equal",
-        "imgSrc": "./s_第一鮪_files/WebItemPage_0613.jpg",
+        "imgSrc": "/static/5035/WebItemPage_0613.jpg",
         "date": "2020-1",
         "epNum": "全 1 集",
         "direct": "孫介珩",
@@ -1845,7 +1845,7 @@
         "item": [
             {
                 "name": "第一鮪Home Sick",
-                "src": "./s_第一鮪_files/WebListPage_0006.jpg",
+                "src": "/static/5035/WebListPage_0006.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1857,7 +1857,7 @@
         "title": "糖糖Online",
         "desc": "糖糖是個高中生，因為一次直播爆紅而當上直播主，原本只是抱著好玩的心態，但一次意外的走光直播卻引發一連串的風波，讓她面臨其他學生的異樣眼光。走光究竟是意外還是蓄意，引爆了大人世界的交戰，以及整個小鎮的歧視與排擠，讓原本單純的事件越趨複雜。糖糖還能當一個普通高中生嗎？真正崩壞的到底是糖糖或是整個成人世界？學校高牆的裡與外，正掀起一場慾望與偏見的對戰。糖糖online｜AR濾鏡：http://bit.ly/2Ql3dfu入圍▲第55屆電視金鐘獎迷你劇集獎",
         "caption": "Equal",
-        "imgSrc": "./s_糖糖Online_files/WebItemPage_糖糖第三周banner_1920_nn.png",
+        "imgSrc": "/static/5036/WebItemPage_糖糖第三周banner_1920_nn.png",
         "date": "2019-11",
         "epNum": "全 13 集",
         "direct": "簡學彬",
@@ -1889,61 +1889,61 @@
         "item": [
             {
                 "name": "代罪 ep10",
-                "src": "./s_糖糖Online_files/WebListPage_10.JPG",
+                "src": "/static/5036/WebListPage_10.JPG",
                 "url": "javascript:void(0)",
                 "id": "ep10"
             },
             {
                 "name": "真相 ep9",
-                "src": "./s_糖糖Online_files/WebListPage_9.JPG",
+                "src": "/static/5036/WebListPage_9.JPG",
                 "url": "javascript:void(0)",
                 "id": "ep9"
             },
             {
                 "name": "羞辱 ep8",
-                "src": "./s_糖糖Online_files/WebListPage_8.JPG",
+                "src": "/static/5036/WebListPage_8.JPG",
                 "url": "javascript:void(0)",
                 "id": "ep8"
             },
             {
                 "name": "直播主 ep7",
-                "src": "./s_糖糖Online_files/WebListPage_7.JPG",
+                "src": "/static/5036/WebListPage_7.JPG",
                 "url": "javascript:void(0)",
                 "id": "ep7"
             },
             {
                 "name": "代言 ep6",
-                "src": "./s_糖糖Online_files/WebListPage_6.JPG",
+                "src": "/static/5036/WebListPage_6.JPG",
                 "url": "javascript:void(0)",
                 "id": "ep6"
             },
             {
                 "name": "tag me ep5",
-                "src": "./s_糖糖Online_files/WebListPage_5.JPG",
+                "src": "/static/5036/WebListPage_5.JPG",
                 "url": "javascript:void(0)",
                 "id": "ep5"
             },
             {
                 "name": "流言 ep4",
-                "src": "./s_糖糖Online_files/WebListPage_4.JPG",
+                "src": "/static/5036/WebListPage_4.JPG",
                 "url": "javascript:void(0)",
                 "id": "ep4"
             },
             {
                 "name": "噴藥少年 ep3",
-                "src": "./s_糖糖Online_files/WebListPage_3.JPG",
+                "src": "/static/5036/WebListPage_3.JPG",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "獨舞 ep2",
-                "src": "./s_糖糖Online_files/WebListPage_2.JPG",
+                "src": "/static/5036/WebListPage_2.JPG",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "糖糖 ep1",
-                "src": "./s_糖糖Online_files/WebListPage_1.JPG",
+                "src": "/static/5036/WebListPage_1.JPG",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1955,7 +1955,7 @@
         "title": "編劇頭很痛",
         "desc": "某日夜裡，剛入行不久的影視編劇－阿始，正在租屋處趕稿。過程中，阿始筆下的角色們紛紛出現在周遭，給予他創作上的意見。但是面對尚哥一次又一次的退稿，與各種強人所難的要求，阿始漸漸放棄自己的堅持，開始萌生放棄夢想的念頭…",
         "caption": "Equal",
-        "imgSrc": "./s_編劇頭很痛_files/WebItemPage_WTF613.jpg",
+        "imgSrc": "/static/5037/WebItemPage_WTF613.jpg",
         "date": "2020-1",
         "epNum": "全 1 集",
         "direct": "陳柏宗",
@@ -1978,7 +1978,7 @@
         "item": [
             {
                 "name": "編劇頭很痛",
-                "src": "./s_編劇頭很痛_files/WebListPage_WTF04.jpg",
+                "src": "/static/5037/WebListPage_WTF04.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -1990,7 +1990,7 @@
         "title": "苦力",
         "desc": "一九七〇年代，走過戰火與重建的基隆港，此時正走向前所未有的蓬勃與發展；港裡停泊著許多各式各樣的商船與軍艦，不分晝夜都有大船在進出，船笛聲此起彼落，呈現出一片繁華景象，而支撐這一切的，正是一群生活在社會基層的勞動者—苦力。基隆山區發生的一場煤礦災變，造成許多家庭的破碎，礦坑也因此封閉，失去生活倚靠的災民，只得扶老攜幼離開礦山，結伴來到了基隆港，他們或在碼頭當苦力，或當雜工，或幫傭等等，從事各種勞動的工作，以「賺流汗錢，吃清心飯」的精神，為自己和家人努力且尊嚴的生活著；這群孤立無援的災民、孤兒寡婦，不向命運低頭，在逆境中正面思考、互相幫助，勇敢的走向新的人生。入圍▲第55屆電視金鐘獎戲劇節目男主角獎-蔡昌憲戲劇節目女主角獎-林玟誼戲劇節目男配角獎-楊烈戲劇節目男配角獎-蔡阿炮【蔡明毅】戲劇節目女配角獎-謝瓊煖戲劇節目導演獎-李岳峰、張志鴻",
         "caption": "Equal",
-        "imgSrc": "./s_苦力_files/WebItemPage_5.jpg",
+        "imgSrc": "/static/5038/WebItemPage_5.jpg",
         "date": "2020-9",
         "epNum": "全 30 集",
         "direct": "李岳峰",
@@ -2023,61 +2023,61 @@
         "item": [
             {
                 "name": "苦力 ep10",
-                "src": "./s_苦力_files/WebListPage_10.jpg",
+                "src": "/static/5038/WebListPage_10.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep10"
             },
             {
                 "name": "苦力 ep9",
-                "src": "./s_苦力_files/WebListPage_9.jpg",
+                "src": "/static/5038/WebListPage_9.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep9"
             },
             {
                 "name": "苦力 ep8",
-                "src": "./s_苦力_files/WebListPage_080.jpg",
+                "src": "/static/5038/WebListPage_080.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep8"
             },
             {
                 "name": "苦力 ep7",
-                "src": "./s_苦力_files/WebListPage_070.jpg",
+                "src": "/static/5038/WebListPage_070.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep7"
             },
             {
                 "name": "苦力 ep6",
-                "src": "./s_苦力_files/WebListPage_6.jpg",
+                "src": "/static/5038/WebListPage_6.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep6"
             },
             {
                 "name": "苦力 ep5",
-                "src": "./s_苦力_files/WebListPage_5.jpg",
+                "src": "/static/5038/WebListPage_5.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep5"
             },
             {
                 "name": "苦力 ep4",
-                "src": "./s_苦力_files/WebListPage_44.jpg",
+                "src": "/static/5038/WebListPage_44.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep4"
             },
             {
                 "name": "苦力 ep3",
-                "src": "./s_苦力_files/WebListPage_3-1.jpg",
+                "src": "/static/5038/WebListPage_3-1.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep3"
             },
             {
                 "name": "苦力 ep2",
-                "src": "./s_苦力_files/WebListPage_02.jpg",
+                "src": "/static/5038/WebListPage_02.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "苦力 ep1",
-                "src": "./s_苦力_files/WebListPage_001.jpg",
+                "src": "/static/5038/WebListPage_001.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -2089,7 +2089,7 @@
         "title": "莫札特-費加洛的婚禮",
         "desc": "2017年，英國BBC音樂雜誌邀請當今172位重量級聲樂家票選史上最偉大的歌劇作品，《費加洛的婚禮》以壓倒性票數脫穎而出，成為當今歌劇名家中一致贊同的第一歌劇首選！被原劇本作者博馬舍稱為《瘋狂的一天》的《費加洛的婚禮》，以僅僅三小時便呈現出許多迂迴曲折、不可思議的情節變化，在劇作家達‧彭特極佳的劇本架構改編加以莫札特如天賜般的美妙旋律譜寫之下，奠定《費加洛的婚禮》在歌劇史上的不朽經典地位。且看莫札特與劇作家達‧彭特，如何以戲謔的手法，諷刺當時迂腐貴族，嘲弄愚蠢的制度與社會；看劇中足智多謀的費加洛與蘇珊娜，如何聯合眾人之力，勇敢挑戰貴族權威，屢施奇謀化解各方的插足；看伯爵夫人如何由被動化為主動，為維繫婚姻挺身而出。由台北愛樂歌劇坊音樂總監暨指揮─邱君強、優秀青年導演─陳昶旭，以及眾多實力堅強的青年聲樂家，帶您穿梭於這齣道盡人性的喜劇，感受莫札特如何妙筆生花，描繪出氣韻生動、高潮迭起的喜歌劇經典，耳熟能詳的美妙旋律，配合幽默詼諧的劇情，絕對讓您值回票價，再三回味！！！",
         "caption": "Equal",
-        "imgSrc": "./s_莫札特-費加洛的婚禮_files/WebItemPage_0.jpg",
+        "imgSrc": "/static/5039/WebItemPage_0.jpg",
         "date": "2020-10",
         "epNum": "更新至第 1 集",
         "direct": "陳昶旭",
@@ -2115,7 +2115,7 @@
         "item": [
             {
                 "name": "莫札特-費加洛的婚禮",
-                "src": "./s_莫札特-費加洛的婚禮_files/WebListPage_02.jpg",
+                "src": "/static/5039/WebListPage_02.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -2127,7 +2127,7 @@
         "title": "野性大都會",
         "desc": "變動速度最快的地方，在我們的星球上，就是城市大都會了，是讓人詫異地，無非是動物融入了都市生活， 在大都會的面貌上，自然又自在。新加坡的江獺是當地的明星，除了特別被保護外，也是重點的觀光資產，新加坡到處都是水路，對半水生動物的江獺來說，這是遊走城市的完美方式，老一代的江獺熟知在城市街頭討生活的訣竅，牠們將自己的知識，傳 授給下一代年輕的江獺。在泰國長尾獼猴被稱為寺廟部隊，牠們得到皇室般的待遇，每天都被城市居民或遊客餵食，牠們擁有城裡最 好的住所，養尊處優過生活，能躺著就不會站著坐著，根本可以一動也不動地享受生活。在曼徹斯特，大冠蠑螈是英國最稀有的兩棲動物之一，行動笨拙，在開闊的場域容易遭受攻擊，在最不可能 的地方，牠們也能找到安全之處。自然生態世界日漸縮小，而人類都會不斷發展，如果人類願意接受野生動物當鄰居，甚至願意幫助動物在都 市中立足，對牠們和對我們來說，都可能得到豐厚的回報。【本節目由於版權限制，設有觀看期限，敬請把握觀看時間】",
         "caption": "Equal",
-        "imgSrc": "./s_野性大都會_files/WebItemPage_000.jpg",
+        "imgSrc": "/static/5040/WebItemPage_000.jpg",
         "date": "2020-10",
         "epNum": "更新至第 2 集",
         "category": [
@@ -2151,13 +2151,13 @@
         "item": [
             {
                 "name": "小動物通勤 ep2",
-                "src": "./s_野性大都會_files/WebListPage_2.jpg",
+                "src": "/static/5040/WebListPage_2.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "都市小動物 ep1",
-                "src": "./s_野性大都會_files/WebListPage_1.jpg",
+                "src": "/static/5040/WebListPage_1.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -2169,7 +2169,7 @@
         "title": "阿嬤的秘密",
         "desc": "麗雲為扶養兒子，落入風塵。她的好友秋薇與丈夫守義婚姻美滿，卻殊不知兩人是多年前的舊情人。麗雲遠走避居，但卻在因緣際會下與守義舊情復燃，並意外懷了孩子。四十年後，孫子透過鏡頭，記錄她回憶過往及思念兒子的心情。",
         "caption": "Equal",
-        "imgSrc": "./s_阿嬤的秘密_files/WebItemPage_阿嬤的秘密_Banner_1920.png",
+        "imgSrc": "/static/5041/WebItemPage_阿嬤的秘密_Banner_1920.png",
         "date": "2020-1",
         "epNum": "全 1 集",
         "direct": "林世菁",
@@ -2192,7 +2192,7 @@
         "item": [
             {
                 "name": "阿嬤的秘密",
-                "src": "./s_阿嬤的秘密_files/WebListPage_阿.jpg",
+                "src": "/static/5041/WebListPage_阿.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -2204,7 +2204,7 @@
         "title": "隨片登台",
         "desc": "導演舜仔使出渾身解數，企圖在新片中重現台語片時期的種種，除了找老婆 演女主角、一家子搬進場景住、還規定身邊所有人都要講台語。現場狀況接二連三，導演瀕臨崩潰，但大家總是告訴他：「你一定可以的！」",
         "caption": "Equal",
-        "imgSrc": "./s_隨片登台_files/WebItemPage_隨片登台_Banner_1920.png",
+        "imgSrc": "/static/5042/WebItemPage_隨片登台_Banner_1920.png",
         "date": "2020-1",
         "epNum": "全 1 集",
         "direct": "林亞佑",
@@ -2227,7 +2227,7 @@
         "item": [
             {
                 "name": "隨片登台",
-                "src": "./s_隨片登台_files/WebListPage_1.jpg",
+                "src": "/static/5042/WebListPage_1.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -2239,7 +2239,7 @@
         "title": "離巢",
         "desc": "【觀看期限至10/18】母親決定把老房子賣掉，迫使女兒曉安回老家搬家。這對一見面就吵架的母女，只有在夜晚母親吃下安眠藥後，意識迷離時兩人才能和平相處。曉安守著自己懷孕的祕密，母女間的往事隨著家中舊物一件件再度被翻出，過去的傷口隱隱作痛，這段破裂的關係是否還有修補的可能。入圍2019金穗獎一般組劇情短片，入圍2018台灣國際女性影展。",
         "caption": "Equal",
-        "imgSrc": "./s_離巢_files/WebItemPage_0.jpg",
+        "imgSrc": "/static/5043/WebItemPage_0.jpg",
         "date": "2020-10",
         "epNum": "全 1 集",
         "direct": "陳定寧",
@@ -2263,7 +2263,7 @@
         "item": [
             {
                 "name": "離巢",
-                "src": "./s_離巢_files/WebListPage_離巢.jpg",
+                "src": "/static/5043/WebListPage_離巢.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
@@ -2275,7 +2275,7 @@
         "title": "顛覆街頭 班克斯",
         "desc": "2018年在蘇富比藝術拍賣會上，著名的英國街頭塗鴉藝術家班克斯（Banksy）突然「自行銷毀」代表作品《手持氣球的女孩》（Girl With Balloon），當拍賣官宣布成交時，價值四千萬台幣的作品應聲攪入碎紙機，瞬間成了一條條紙屑。這是班克斯的惡作劇嗎？班克斯本人在現場嗎？還是一項驚人的藝術行動宣言呢？這個充滿挑釁的舉動，卻讓班克 斯在藝術市場的身價更水漲船高。他是當代最有名氣的英國藝術家之一，同時具有社會運動份子、電影導演及畫家等身份，他的作品往往誕生於街頭，並在許多敏感的社會議題上發聲，曾被評選為具有影響力的百大人物，登上美國時代雜誌封面。他的作品裡充滿著諷刺、幽默與挑釁經典的精神，《手持氣球的女孩》、 《粗魯的警察》、惡搞的《蒙娜麗莎》、充滿反戰意味的《擲花者》都是他的知名作品。但他的身分卻是個謎，媒體、藝術評論家、投資者、粉絲都在追逐他的真實身分。節目抽絲剝繭地想找出班克斯到底是誰，他是英國樂團強烈衝擊（Massive Attack）的成員 Robert Del Naja 嗎？還是虛擬樂團街頭霸王（Gorillaz）創始者之一的Jamie Hewlett 呢？跟著受訪者與一個個證據與推論，一起尋找神祕的班克斯。【本節目由於版權限制，設有觀看期限，敬請把握觀看時間】",
         "caption": "Equal",
-        "imgSrc": "./s_顛覆街頭 班克斯_files/WebItemPage_42.jpg",
+        "imgSrc": "/static/5044/WebItemPage_42.jpg",
         "date": "2020-10",
         "epNum": "更新至第 2 集",
         "category": [
@@ -2299,13 +2299,13 @@
         "item": [
             {
                 "name": "顛覆街頭 班克斯 ep2",
-                "src": "./s_顛覆街頭 班克斯_files/WebListPage_44.jpg",
+                "src": "/static/5044/WebListPage_44.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep2"
             },
             {
                 "name": "顛覆街頭 班克斯 ep1",
-                "src": "./s_顛覆街頭 班克斯_files/WebListPage_43.jpg",
+                "src": "/static/5044/WebListPage_43.jpg",
                 "url": "javascript:void(0)",
                 "id": "ep1"
             }
