@@ -1,6 +1,7 @@
 # coding=gbk
 from bs4 import BeautifulSoup
 from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
 import urllib.request
 from urllib.parse import (urlparse, urlunparse)
 from urllib.request import (urlopen, urlretrieve)
@@ -15,6 +16,17 @@ data_begin_id = 5000
 read_path = 'raw/'
 json_output_path = 'json/result2.json'
 output_path = 'json/'
+
+
+class Home:
+    carousel = []
+    new_recommend = []
+    series = []
+
+    def __init__(self):
+        self.carousel = []
+        self.new_recommend = []
+        self.series = []
 
 
 class Season:
@@ -80,6 +92,10 @@ def on_parse_complate():
     with open(json_output_path, 'w', encoding='utf-8') as f:
         f.write(d)
     compress_image()
+
+
+def parse_index(url, html):
+    soup = BeautifulSoup(html, "html.parser")
 
 
 def parse_html(url, parent: Season, html):
@@ -185,7 +201,6 @@ def parse_html(url, parent: Season, html):
             urlretrieve(urlunparse(parsed), output, reporthook=reporthook)
 
     data.append(i.__dict__)
-    # print(i.__dict__)
 
 
 def get_url(url, parent: Season = None, depth=0):
@@ -196,22 +211,162 @@ def get_url(url, parent: Season = None, depth=0):
     browser = webdriver.Chrome('bin/chromedriver.exe')
     browser.implicitly_wait(30)
     browser.get(url)
-    browser.find_element_by_class_name('series_name')
 
+    browser.find_element_by_class_name('series_name')
     html = browser.page_source
     parse_html(url, parent, html)
 
 
+def parse_home_page(url, html):
+    soup = BeautifulSoup(html, "html.parser")
+    i = Home()
+
+    def parse_carousel():
+        carousel_list = soup.select('div.carousel-inner > div > a')
+        for c in carousel_list:
+            href = c.get('href')
+            if href is None:
+                continue
+            if "season" not in href:
+                continue
+            src = ''
+            name = ''
+            captioin = ''
+            # print(href)
+            for d in c.findAll('div', class_="carousel_image_crop"):
+                # print(d.find('img')['src'])
+                src = d.find('img')['src']
+                break;
+            for d in c.findAll('div', class_="carousel-caption"):
+                # print(d.find('h5').getText())
+                # print(d.find('p').getText())
+                name = d.find('h5').getText()
+                captioin = d.find('p').getText()
+                break;
+            item = {'name': name, 'caption': captioin, 'src': src, 'href': href}
+            # print(item)
+            i.carousel.append(item)
+
+    def parse_new_recommend():
+        new_recommend = soup.select('div.new_recommend > div > div > a')
+        for r in new_recommend:
+            href = r.get('href')
+            if href is None:
+                href = ''
+            episode = ''
+            src = ''
+            name = ''
+            description = ''
+            for d in r.findAll('div', class_="img_hover_effect"):
+                episode = d.find('p').getText()
+                src = d.find('img')['src']
+                break
+            for d in r.findAll('div', class_="item_info"):
+                name = d.find('p', class_="item_name").getText()
+                description = d.find('p', class_="item_description").getText()
+                break
+            item = {'name': name, 'description': description, 'episode': episode, 'src': src, 'href': href}
+            # print(item)
+            i.new_recommend.append(item)
+
+    def parse_series():
+        series_list = soup.select('div.curating_block > div')
+        label = ''
+        href = ''
+        # series = []
+        for s in series_list:
+            items = []
+            for h in s.findAll('h3'):
+                label = h.find('a').getText()
+                href = h.find('a')['href']
+                break
+
+            if "item_lists" in s['class']:
+                # print("===")
+                for div in s.findAll('div'):
+                    info = div.select_one('a > div.item_info')
+                    if info is not None:
+                        name = info.find('p', class_="item_name").getText()
+                        episode = info.find('p', class_="item_episode").getText()
+                    else:
+                        continue
+
+                    a = div.find('a')
+                    if a is not None:
+                        href = a['href']
+
+                    img = div.find('img')
+                    if img is not None:
+                        src = img['src']
+
+                    item = {'name': name, 'description': '', 'episode': episode, 'src': src, 'href': href}
+                    items.append(item)
+                # print("===")
+            else:
+                continue
+
+            s = {'label': label, 'href': href, 'items': items}
+            i.series.append(s)
+        # print(series)
+
+
+        # with open(json_output_path, 'w', encoding='utf-8') as f:
+        #     f.write(d)
+        # src = r.find('img')['src']
+        # name = r.find('p', class_="item_name").getText()
+        # episode = r.find('p', class_="item_episode").getText()
+        # item = {'name': name, 'description': '', 'episode': episode, 'src': src, 'href': href}
+        # series.append(item)
+
+    parse_carousel()
+    parse_new_recommend()
+    parse_series()
+
+    d = json.dumps(i.__dict__, indent=4, ensure_ascii=False)
+    # print(d)
+    with open('json/home.json', 'w', encoding='utf-8') as f:
+        f.write(d)
+
+def get_home_page(url):
+    browser = webdriver.Chrome('bin/chromedriver.exe')
+    browser.implicitly_wait(30)
+    browser.get(url)
+
+    browser.find_element_by_class_name('carousel-caption')
+    html = browser.page_source
+    parse_home_page(url, html)
+
+
 def read_urls():
-    with open('urls.txt') as f:
-        line = f.readlines()
-        line = [x.strip() for x in line]
-        print(line)
+    def read_home_page():
+        with open('home_page.txt') as f:
+            line = f.readlines()
+            line = [x.strip() for x in line]
 
-    for url in line:
-        get_url(url)
+        for url in line:
+            if not url.startswith('#'):
+                get_home_page(url)
 
-    on_parse_complate()
+    def read_season_page():
+        with open('season.txt') as f:
+            line = f.readlines()
+            line = [x.strip() for x in line]
+
+        for url in line:
+            if not url.startswith('#'):
+                get_url(url)
+
+        on_parse_complate()
+
+    # read_home_page()
+    # read_season_page()
+
+    with os.scandir('raw3/') as entries:
+        for e in entries:
+            if e.name.endswith('.html'):
+                file = codecs.open(e, "r", "utf-8")
+                html = file.read()
+                parse_home_page('raw3/index.html', html)
 
 
 if __name__ == "__main__":
