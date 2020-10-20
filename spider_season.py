@@ -28,13 +28,11 @@ class Season:
     direct = ''
     actor = ''
     category = []
-    url = ''
     active = []
-    item = []
 
 
 data_begin_id = 7000
-output_path = 'json3/'
+output_path = 'json4/'
 data = []
 dumped_data = []
 digging_max_depth = 1
@@ -84,6 +82,7 @@ def on_parse_complate():
     global dumped_data
     dumped_data = []
     for d in data:
+        d.id = str(d.id)
         dumped_data.append(d.__dict__)
     out = json.dumps(dumped_data, indent=4, ensure_ascii=False)
     # print(out)
@@ -101,6 +100,7 @@ def already_in_data(url):
 
 
 def process_image(url, src, id):
+    return
     parsed = list(urlparse(url))
     link = urllib.parse.quote(src, safe=':/')
     filename = os.path.basename(src)
@@ -183,31 +183,49 @@ def parse_html(driver, url, parent: Season, html):
     for c in soup.select('ul.series_category > li > a'):
         i.category.append(c.getText().strip())
 
-    i.url = '/season/:id'
-    i.active = []
+    # i.url = '/season/:id'
+
+
+
     for a in soup.select('div.series_episode_btn_bar > ul > li > a'):
-        i.active.append(a.getText().strip())
+        label = a.getText().strip()
+        item = []
 
-    i.item = []
+        episode_buttons = driver.find_elements_by_xpath("//a[@href='javascript:void(0);']")
+        '''
+        在子頁面因找不到app-season-episode-side-list
+        引此item就自動不會被處理
+        '''
 
-    episode_buttons = driver.find_elements_by_xpath("//a[@href='javascript:void(0);']")
-    '''
-    在子頁面因找不到app-season-episode-side-list
-    引此item就自動不會被處理
-    '''
-
-    if parent is None or parent == '':
-        if len(episode_buttons) > 1:
-            child_id = i.id
-            for index in range(2):
-                print("processing episode menu:" + str(index))
-                sub = episode_buttons[index]
-                sub.click()
-                time.sleep(1)
-                # driver.find_element_by_class_name('series_name')
-                html = driver.page_source
-                soup = BeautifulSoup(html, "html.parser")
+        if parent is None or parent == '':
+            if len(episode_buttons) > 1:
+                i.active = []
+                child_id = i.id
+                for index in range(2):
+                    print("processing episode menu:" + str(index))
+                    sub = episode_buttons[index]
+                    sub.click()
+                    time.sleep(1)
+                    # driver.find_element_by_class_name('series_name')
+                    html = driver.page_source
+                    soup = BeautifulSoup(html, "html.parser")
+                    episode_list = soup.select('app-season-episode-side-list > div > a')
+                    for e in episode_list:
+                        child_id += 1
+                        file = os.path.basename(e.img['src'])
+                        ext = os.path.splitext(file)[0] + '.jpg'
+                        d = {'name': e.p.getText(), 'src': base_url + ext, 'url': 'javascript:void(0)',
+                             'id': child_id}
+                        process_image(url, e.img['src'], i.id)
+                        item.append(d)
+                        depth_1_url = e['href']
+                        parsed_uri = urlparse(url)
+                        domain = '{uri.scheme}://{uri.netloc}/'.format(uri=parsed_uri)
+                        get_url(domain[:-1] + depth_1_url, i, 1)
+            else:
+                i.active = []
                 episode_list = soup.select('app-season-episode-side-list > div > a')
+                child_id = i.id
                 for e in episode_list:
                     child_id += 1
                     file = os.path.basename(e.img['src'])
@@ -215,27 +233,15 @@ def parse_html(driver, url, parent: Season, html):
                     d = {'name': e.p.getText(), 'src': base_url + ext, 'url': 'javascript:void(0)',
                          'id': child_id}
                     process_image(url, e.img['src'], i.id)
-                    i.item.append(d)
+                    item.append(d)
                     depth_1_url = e['href']
                     parsed_uri = urlparse(url)
                     domain = '{uri.scheme}://{uri.netloc}/'.format(uri=parsed_uri)
+                    # print(domain + depth_1_url)
                     get_url(domain[:-1] + depth_1_url, i, 1)
-        else:
-            episode_list = soup.select('app-season-episode-side-list > div > a')
-            child_id = i.id
-            for e in episode_list:
-                child_id += 1
-                file = os.path.basename(e.img['src'])
-                ext = os.path.splitext(file)[0] + '.jpg'
-                d = {'name': e.p.getText(), 'src': base_url + ext, 'url': 'javascript:void(0)',
-                     'id': child_id}
-                process_image(url, e.img['src'], i.id)
-                i.item.append(d)
-                depth_1_url = e['href']
-                parsed_uri = urlparse(url)
-                domain = '{uri.scheme}://{uri.netloc}/'.format(uri=parsed_uri)
-                # print(domain + depth_1_url)
-                get_url(domain[:-1] + depth_1_url, i, 1)
+
+        act_obj = {'label':label,'items':item}
+        i.active.append(act_obj)
 
     data.append(i)
     progress = int((len(data) / url_length) * 100)
@@ -270,7 +276,7 @@ def get_url(url, parent: Season = None, depth=0):
 
 def read_urls():
     global url_length
-    with open('season.txt', "r", encoding="utf-8") as f:
+    with open('test_season.txt', "r", encoding="utf-8") as f:
         line = f.readlines()
         line = [x.strip() for x in line]
         for l in line:

@@ -92,6 +92,7 @@ def parse_index(url, html):
 
 
 def process_image(url, src, id):
+    return
     parsed = list(urlparse(url))
     link = urllib.parse.quote(src, safe=':/')
     filename = os.path.basename(src)
@@ -213,7 +214,12 @@ def parse_home_page(url, html):
                     base_url = '/static/' + str(pass_id) + '/'
                     file = os.path.basename(src)
                     ext = os.path.splitext(file)[0] + '.jpg'
-                    item = {'id': str(pass_id), 'name': name, 'description': '', 'episode': episode,
+                    db_id = find_by_name_from_db(name)
+                    id = pass_id
+                    if db_id is not None:
+                        id = db_id
+                        href = '/season/'+str(id)
+                    item = {'id': str(id), 'name': name, 'description': '', 'episode': episode,
                             'src': base_url+ext, 'href': href}
                     items.append(item)
                     pass_id +=1
@@ -234,6 +240,14 @@ def parse_home_page(url, html):
     data = i
 
 
+def find_by_name_from_db(name):
+    for i in db:
+        if i['name'] == name:
+            print(name + " is match with " + i['name'])
+            return i['id']
+    return None
+
+
 def get_home_page(url):
     options = Options()
     options.add_argument('--headless')
@@ -248,6 +262,10 @@ def get_home_page(url):
 
 
 def read_urls():
+    with open('db.json', 'r', encoding='utf-8') as f:
+        global db
+        db = json.load(f)
+
     with open('home_page.txt') as f:
         line = f.readlines()
         line = [x.strip() for x in line]
