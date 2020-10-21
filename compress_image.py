@@ -28,7 +28,10 @@ def compress_image():
                     os.remove(e.path)
                     print("size after compress:" + str(a_size))
                 else:
-                    rt.save(e.path, optimize=True, quality=20)
+                    os.remove(e.path)
+                    ext = os.path.splitext(e.name)[0] + '.jpg'
+                    p = entry.path + "/" + ext
+                    rt.save(p, optimize=True, quality=20)
                     a_size = os.path.getsize(e.path)
                     print("size after compress:" + str(a_size))
 
