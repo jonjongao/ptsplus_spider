@@ -2,6 +2,9 @@
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 import urllib.request
 from urllib.parse import (urlparse, urlunparse)
@@ -84,7 +87,7 @@ def on_parse_complate():
     # print(out)
     with open(output_path + 'result.json', 'w', encoding='utf-8') as f:
         f.write(out)
-    compress_image()
+    # compress_image()
 
 
 def parse_index(url, html):
@@ -92,7 +95,7 @@ def parse_index(url, html):
 
 
 def process_image(url, src, id):
-    return
+    # return
     parsed = list(urlparse(url))
     link = urllib.parse.quote(src, safe=':/')
     filename = os.path.basename(src)
@@ -143,7 +146,12 @@ def parse_home_page(url, html):
             base_url = '/static/' + str(pass_id) + '/'
             file = os.path.basename(src)
             ext = os.path.splitext(file)[0] + '.jpg'
-            item = {'id': str(pass_id), 'name': name, 'caption': captioin, 'src': base_url + ext, 'href': href}
+            db_id = find_by_name_from_db(name)
+            id = pass_id
+            if db_id is not None:
+                id = db_id
+                href = '/season/' + str(id)
+            item = {'id': str(id), 'name': name, 'caption': captioin, 'src': base_url + ext, 'href': href}
             # print(item)
             i.carousel.append(item)
             pass_id +=1
@@ -172,7 +180,12 @@ def parse_home_page(url, html):
             base_url = '/static/' + str(pass_id) + '/'
             file = os.path.basename(src)
             ext = os.path.splitext(file)[0] + '.jpg'
-            item = {'id': str(pass_id), 'name': name, 'description': description, 'episode': episode,
+            db_id = find_by_name_from_db(name)
+            id = pass_id
+            if db_id is not None:
+                id = db_id
+                href = '/season/' + str(id)
+            item = {'id': str(id), 'name': name, 'description': description, 'episode': episode,
                     'src': base_url+ext, 'href': href}
             # print(item)
             i.new_recommend.append(item)
@@ -185,14 +198,18 @@ def parse_home_page(url, html):
         label = ''
         href = ''
         # series = []
+        # print("series length:"+str(len(series_list)))
         for s in series_list:
+            # print(s)
             items = []
             for h in s.findAll('h3'):
+
                 label = h.find('a').getText()
                 href = h.find('a')['href']
                 break
 
             if "item_lists" in s['class']:
+                # print("looking up:"+str(s['class']))
                 # print("===")
                 for div in s.findAll('div'):
                     info = div.select_one('a > div.item_info')
@@ -227,6 +244,7 @@ def parse_home_page(url, html):
             else:
                 continue
 
+            print(label)
             s = {'label': label, 'href': href, 'items': items}
             i.series.append(s)
 
@@ -243,8 +261,9 @@ def parse_home_page(url, html):
 def find_by_name_from_db(name):
     for i in db:
         if i['name'] == name:
-            print(name + " is match with " + i['name'])
+            # print(name + " is match with " + i['name'])
             return i['id']
+    print("cant find "+name +" in db")
     return None
 
 
@@ -253,10 +272,11 @@ def get_home_page(url):
     options.add_argument('--headless')
     options.add_argument('--disable-gpu')
     browser = webdriver.Chrome(options=options, executable_path='bin/chromedriver.exe')
-    browser.implicitly_wait(30)
+    browser.implicitly_wait(60)
     browser.get(url)
 
-    browser.find_element_by_class_name('carousel-caption')
+    browser.find_elements_by_class_name('container curating')
+
     html = browser.page_source
     parse_home_page(url, html)
 

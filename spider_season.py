@@ -31,7 +31,7 @@ class Season:
     active = []
 
 
-data_begin_id = 7000
+data_begin_id = 7302
 output_path = 'json4/'
 data = []
 dumped_data = []
@@ -88,7 +88,7 @@ def on_parse_complate():
     # print(out)
     with open(output_path+'result.json', 'w', encoding='utf-8') as f:
         f.write(out)
-    compress_image()
+    # compress_image()
 
 
 def already_in_data(url):
@@ -100,7 +100,6 @@ def already_in_data(url):
 
 
 def process_image(url, src, id):
-    return
     parsed = list(urlparse(url))
     link = urllib.parse.quote(src, safe=':/')
     filename = os.path.basename(src)
@@ -118,7 +117,7 @@ def process_image(url, src, id):
         urlretrieve(urlunparse(parsed), output, reporthook=reporthook)
 
 
-def parse_html(driver, url, parent: Season, html):
+def parse_html(driver, url, id_override, parent: Season, html):
     soup = BeautifulSoup(html, "html.parser")
     i = Season()
     h1 = soup.find('h1', class_='series_name')
@@ -142,10 +141,13 @@ def parse_html(driver, url, parent: Season, html):
         i.id = data_begin_id + len(data)
     else:
         i.parent = str(parent.id)
-        for item_child in parent.item:
-            if item_child['name'] == title:
-                i.id = item_child['id']
-                break
+        i.id = str(id_override)
+        # for item_active in parent.active:
+        #     for item_child in item_active['items']:
+        #         if item_child['name'] == title:
+        #             print("bind child["+str(item_child['id'])+"] to "+str(parent.id))
+        #             i.id = str(item_child['id'])
+        #             break
 
         if i.id is None or i.id == '':
             i.id = ''
@@ -202,15 +204,19 @@ def parse_html(driver, url, parent: Season, html):
                 i.active = []
                 child_id = i.id
                 for index in range(2):
+                    item = []
                     print("processing episode menu:" + str(index))
                     sub = episode_buttons[index]
                     sub.click()
                     time.sleep(1)
+
                     # driver.find_element_by_class_name('series_name')
                     html = driver.page_source
                     soup = BeautifulSoup(html, "html.parser")
                     episode_list = soup.select('app-season-episode-side-list > div > a')
+                    active_label = soup.select_one('li.active > a')
                     for e in episode_list:
+                        label = active_label.getText().strip()
                         child_id += 1
                         file = os.path.basename(e.img['src'])
                         ext = os.path.splitext(file)[0] + '.jpg'
@@ -221,7 +227,10 @@ def parse_html(driver, url, parent: Season, html):
                         depth_1_url = e['href']
                         parsed_uri = urlparse(url)
                         domain = '{uri.scheme}://{uri.netloc}/'.format(uri=parsed_uri)
-                        get_url(domain[:-1] + depth_1_url, i, 1)
+                        get_url(domain[:-1] + depth_1_url, child_id, i, 1)
+
+                    act_obj = {'label': label, 'items': item}
+                    i.active.append(act_obj)
             else:
                 i.active = []
                 episode_list = soup.select('app-season-episode-side-list > div > a')
@@ -238,17 +247,20 @@ def parse_html(driver, url, parent: Season, html):
                     parsed_uri = urlparse(url)
                     domain = '{uri.scheme}://{uri.netloc}/'.format(uri=parsed_uri)
                     # print(domain + depth_1_url)
-                    get_url(domain[:-1] + depth_1_url, i, 1)
 
-        act_obj = {'label':label,'items':item}
-        i.active.append(act_obj)
+                    get_url(domain[:-1] + depth_1_url, child_id, i, 1)
+
+                    act_obj = {'label': label, 'items': item}
+                    i.active.append(act_obj)
+
+
 
     data.append(i)
     progress = int((len(data) / url_length) * 100)
     # print("Progress:" + str(progress) + "%")
 
 
-def get_url(url, parent: Season = None, depth=0):
+def get_url(url, id_override = 0, parent: Season = None, depth = 0):
     end = url.rsplit('/', 1)[-1]
     if depth == 0:
         print("-- start digging " + end + " in depth " + str(depth))
@@ -260,6 +272,10 @@ def get_url(url, parent: Season = None, depth=0):
         print("digging reach limit")
         return
 
+    response = urllib.request.urlopen('http://google.com')
+    if response.code == 404:
+        print("missing url:"+url)
+        return
     options = Options()
     options.add_argument('--headless')
     options.add_argument('--disable-gpu')
@@ -271,12 +287,12 @@ def get_url(url, parent: Season = None, depth=0):
 
     browser.find_element_by_class_name('series_name')
     html = browser.page_source
-    parse_html(browser, url, parent, html)
+    parse_html(browser, url, id_override, parent, html)
 
 
 def read_urls():
     global url_length
-    with open('test_season.txt', "r", encoding="utf-8") as f:
+    with open('season.txt', "r", encoding="utf-8") as f:
         line = f.readlines()
         line = [x.strip() for x in line]
         for l in line:

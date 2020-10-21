@@ -16,19 +16,19 @@ def compress_image():
                 img = Image.open(e.path)
                 b_size = os.path.getsize(e.path)
                 w, h = img.size
-                rt = img.resize((int(w*0.4), int(h*0.4)), Image.ANTIALIAS)
+                rt = img.resize((int(w*0.5), int(h*0.5)), Image.ANTIALIAS)
                 # print(f"The image size dimensions are: {img.size}")
                 print("size before compress:" + str(b_size))
                 if e.name.endswith('.png'):
                     rgb_img = rt.convert('RGB')
                     ext = os.path.splitext(e.name)[0] + '.jpg'
                     p = entry.path + "/" + ext
-                    rgb_img.save(p, optimize=True, quality=50)
+                    rgb_img.save(p, optimize=True, quality=20)
                     a_size = os.path.getsize(p)
                     os.remove(e.path)
                     print("size after compress:" + str(a_size))
                 else:
-                    rt.save(e.path, optimize=True, quality=50)
+                    rt.save(e.path, optimize=True, quality=20)
                     a_size = os.path.getsize(e.path)
                     print("size after compress:" + str(a_size))
 
